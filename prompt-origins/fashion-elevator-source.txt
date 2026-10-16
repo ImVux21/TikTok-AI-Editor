@@ -1,0 +1,292 @@
+Thay đồ thang máy
+Sử dụng bộ trang phục trong ảnh 1 làm tham chiếu. Mặc cho cô gái trong ảnh 2 chính xác bộ trang phục của ảnh 1 (Nếu bộ đồ mẫu dài quá thì phải thay đổi tỷ lệ cơ thể của cô gái sao cho phù hợp với bộ đồ mẫu), xóa chiếc tai nghe đi. Thay toàn bộ trang phục trên cơ thể cô gái bằng bộ trang phục từ ảnh 1, bao gồm kiểu dáng, màu sắc, chất liệu, họa tiết, đường may, chi tiết trang trí, độ dài, form dáng và mọi đặc điểm thiết kế. Giữ nguyên tuyệt đối 100% toàn bộ nhân vật trong ảnh 2 gồm: khuôn mặt, mắt, kính, tóc, màu tóc, kiểu tóc, màu da, biểu cảm, tỷ lệ cơ thể, vóc dáng, tư thế, vị trí đầu, cổ, vai, cánh tay, bàn tay, ngón tay, phụ kiện, trang sức. Giữ nguyên ánh sáng, màu sắc, bóng đổ, background, đồ nội thất, góc chụp, độ sâu trường ảnh và bố cục ảnh. Không thay đổi khuôn mặt. Không thay đổi vóc dáng. Không làm đẹp khuôn mặt. Không thay đổi kiểu tóc. Không tạo người mới. Không thay đổi background. Không tự ý thay đổi độ phân giải. Only replace the clothing worn by the girl with the outfit from image 1.
+2. Sử dụng bộ trang phục trong ảnh 1 làm tham chiếu. Mặc cho cô gái trong ảnh 2 chính xác bộ trang phục của ảnh 1, xóa chiếc bóng trong gương đi. Thay toàn bộ trang phục trên cơ thể cô gái bằng bộ trang phục từ ảnh 1, bao gồm kiểu dáng, màu sắc, chất liệu, họa tiết, đường may, chi tiết trang trí, độ dài, form dáng và mọi đặc điểm thiết kế. Bộ trang phục phải được mặc tự nhiên lên cơ thể cô gái, phù hợp với tư thế hiện tại và nếp gấp vải thực tế. Giữ nguyên tuyệt đối 100% toàn bộ nhân vật trong ảnh 2 gồm: khuôn mặt, mắt, tóc, màu tóc, kiểu tóc, màu da, biểu cảm, tỷ lệ cơ thể, vóc dáng, tư thế, vị trí đầu, cổ, vai, cánh tay, bàn tay, ngón tay, phụ kiện, trang sức. Giữ nguyên ánh sáng, màu sắc, bóng đổ, background, đồ nội thất, góc chụp, độ sâu trường ảnh và bố cục ảnh. Không thay đổi khuôn mặt. Không thay đổi vóc dáng. Không làm đẹp khuôn mặt. Không thay đổi kiểu tóc. Không tạo người mới. Không thay đổi background. Không tự ý thay đổi độ phân giải lên 2K,4K,8K. Không tự ý làm nét. Only replace the clothing worn by the girl with the outfit from image 1
+Prompt chung
+Cảnh 1 sau khi biến hình
+Cô gái dùng một tay vuốt tóc, sau đó cô mỉm cười nhẹ nhàng đồng thời dùng một tay chạm nhẹ vào gọng kính như đang chỉnh kính, cuối cùng nhìn lại camera với biểu cảm tự nhiên và tạo dáng chuyên nghiệp. Chuyển động mềm mại, nữ tính, nhanh gọn như quay thật. Giữ nguyên background, ánh sáng, màu sắc, khuôn mặt, tóc và outfit. Video 8K sắc nét, 9:16, photorealistic.
+Cảnh cuối
+Một tay chống nạnh, một tay đưa lên mặt làm hình nửa trái Tim dễ thương tất cả ngón tay đều nhau đồng thời mỉm cười nhẹ nhàng, sau đó bye bye. cô gái không mở miệng nói chuyện. Chuyển động mượt mà như quay thật. Giữ nguyên background, ánh sáng, màu sắc, khuôn mặt, tóc và outfit. Video 8K sắc nét, 9:16, photorealistic.
+Cảnh đầu đi từ ngoài vào
+Cô gái giống hệt ảnh tham chiếu, giữ nguyên tuyệt đối 100% khuôn mặt, mái tóc, kính, biểu cảm, màu da, vóc dáng, tỷ lệ cơ thể, chiều cao, chiều dài chân, kích thước cơ thể và toàn bộ đặc điểm nhận dạng. Giữ nguyên chính xác kích thước nhân vật trong khung hình. Không thay đổi giải phẫu cơ thể dưới bất kỳ hình thức nào.
+Cô gái đi ngang từ ngoài khung hình vào phòng ngủ sáng sủa (vị trí ngang phải đúng bằng vị trí đứng lúc đầu không ở cách xa màn hình). Toàn bộ cơ thể dịch chuyển tự nhiên như một khối thống nhất từ phải sang trái, giống như nhân vật thật đang bước vào khung hình. Keep the visible body exactly as in the reference image. Do not distort, stretch or change body proportions. Generate only natural walking motion consistent with the original body. . Giữ nguyên chính xác tỷ lệ cơ thể và chiều dài chân như ảnh tham chiếu trong suốt video.
+Trên tay cô ôm đúng trang phục trong ảnh tham chiếu, giữ nguyên hoàn toàn thiết kế, màu sắc, họa tiết, chất liệu, phom dáng và mọi chi tiết của trang phục. Không thay đổi hay thay thế trang phục.
+Sau khi vào giữa phòng, cô dừng lại, xoay người nhẹ về phía camera, nhìn thẳng vào ống kính và mỉm cười nhẹ nhàng. Sau đó cô từ từ giơ tay trái lên và vẫy tay chào dễ thương bằng lòng bàn tay mở như đang nói "hello". Chuyển động mềm mại, cá tính, tự nhiên, không uốn éo, không cử động thừa.
+Camera cố định hoàn toàn. Không zoom, không pan, không thay đổi tiêu cự, không thay đổi bố cục. Giữ nguyên chính xác tỷ lệ nhân vật trong toàn bộ video.
+No extra legs, no additional limbs, no body extension, no limb generation, no anatomy reconstruction, no lower-body generation, no height change, no body distortion, no stretching, no proportion changes, preserve original framing and character scale.
+Photorealistic, ultra realistic, smooth natural motion, TikTok style, warm daylight, cinematic lighting, vertical 9:16. 8K sắc nét từng chi tiết
+Cảnh 2 ôm quần áo biến hình
+Giữ nguyên 100% nhân vật gốc trong ảnh tham chiếu. Không thay đổi bất kỳ đường nét khuôn mặt, màu da, màu mắt, dáng người, tỷ lệ cơ thể, trang phục, kiểu tóc, màu tóc hay bất kỳ chi tiết nhận dạng nào.
+Cô gái tiến về phía camera với chuyển động tự nhiên và mượt mà, dùng một tay che hoàn toàn ống kính trong giây lát, sau đó lùi về đúng vị trí ban đầu tạo dáng chuyên nghiệp, đầu giữ thẳng, không nghiêng đầu, mắt nhìn vào camera, biểu cảm tự nhiên, nhẹ nhàng, không cường điệu, không uốn éo. Chuyển động chân tay và cơ thể chân thực như người thật, không rung giật, không méo hình.
+Thời lượng: 6 giây.
+Chất lượng: 8K Ultra HD, siêu sắc nét, giữ nguyên mọi chi tiết, ánh sáng ổn định, màu sắc trung thực, chuyển động điện ảnh mượt mà, không flicker, không ghosting, không deformation, không frame lỗi.
+Hành động chung
+Mở đầu video cô gái tạo dáng chuyên nghiệp. Chuyển động mượt mà, nữ tính, biểu cảm tự nhiên như người thật, không nói, camera cố định. 8K sắc nét từng chi tiết
+Cô tiến lại gần một chút đồng thời mỉm cười nhẹ nhàng, sau đó chỉnh nhẹ nhàng phần gấu áo nhưng không làm hở da thịt bên trong tránh bị quét vi phạm của các nền tảng (cảm giác khung hình gần hơn chút, camera zoom vào chiếc áo; cấm tuyệt đối hành động kéo áo lên làm hở bụng). Chuyển động mượt mà, biểu cảm tự nhiên như người thật, không uốn éo, không lắc lư người. 8K sắc nét từng chi tiết
+Tạo video chân thực như ngoài đời thật từ ảnh gốc. Cô gái giữ nguyên 100% gương mặt, kiểu tóc, vóc dáng, trang phục, background, ánh sáng và bố cục. Camera cố định. Cô gái tiến lại gần một chút đồng thời mỉm cười nhẹ nhàng, dùng hai tay chỉnh nhẹ phần vai áo để làm nổi bật phom dáng của bộ trang phục; sau đó dùng một tay vuốt nhẹ thân áo xuống một cách tự nhiên đồng thời mắt nhìn theo chuyển động của tay đến khi kết thúc, biểu cảm cá tính. Chuyển động mượt mà, nhịp nhàng, giống người thật. Độ chân thực như ngoài đời thật 100%, 8K sắc nét từng chi tiết, không rung, không méo hình.
+Cô tiến lại gần một chút đồng thời mỉm cười nhẹ nhàng, sau đó xoay người và dùng tay vuốt dọc theo phần sườn áo (cảm giác khung hình gần hơn chút, camera zoom vào chiếc áo). Chuyển động mượt mà, biểu cảm tự nhiên như người thật, không làm biến dạng cơ thể. 8K sắc nét từng chi tiết
+Tạo video từ chính ảnh gốc với độ chân thực như quay ngoài đời thật. Giữ nguyên tuyệt đối 100% khuôn mặt, kiểu tóc, kính, vóc dáng, tỷ lệ cơ thể, trang phục, background, ánh sáng, màu sắc, góc máy và bố cục của ảnh gốc. Camera zoom từ từ theo chuyển động tay của cô gái. Chuyển động: Cô gái đứng yên đúng vị trí ban đầu, một tay giữ nhẹ phần vai áo, tay còn lại vuốt dọc theo vai áo từ vai xuống eo áo, làm nổi bật chất liệu, độ rủ và thiết kế của tay áo. Không kéo, không nâng, không bóp, không làm thay đổi form áo. Sau khi vuốt xong, hai tay trở về vị trí tự nhiên và cơ thể trở lại tư thế ban đầu. Biểu cảm khuôn mặt tự nhiên, mắt nhìn theo hướng chuyển động của tay rồi trở lại nhìn về camera.
+Ràng buộc bắt buộc:
+Giữ nguyên tuyệt đối gương mặt, tóc, kính và nhận diện nhân vật.
+Không thay đổi thiết kế, màu sắc, họa tiết, chất liệu, độ dài hoặc form của trang phục.
+Không làm méo cơ thể, méo cánh tay, méo bàn tay hoặc ngón tay.
+Không làm biến dạng tay áo hoặc tạo nếp gấp bất thường.
+Không xuất hiện vật thể, người hoặc hiệu ứng mới.
+Không flicker, không ghosting, không frame lỗi, không biến dạng giữa các khung hình, hành động trọn vẹn trong 6 giây.
+Chất lượng đầu ra: Phong cách photorealistic 100%, điện ảnh, chuyển động vật lý tự nhiên, video 8K Ultra HD, tỷ lệ dọc 9:16, độ sắc nét cực cao, chi tiết rõ đến từng sợi tóc, chất liệu vải và đường may, ánh sáng ổn định, màu sắc trung thực như quay bằng máy quay chuyên nghiệp
+Tạo video chân thực như ngoài đời thật từ ảnh gốc. Cô gái đứng trước camera, giữ nguyên 100% khuôn mặt, tóc, kính, body, background, ánh sáng, màu sắc và bố cục. Cô gái dùng một tay vuốt tóc bên cạnh mặt, sau đó khoanh tay tạo dáng chuyên nghiệp. Chuyển động nhanh nhưng mềm mại, nữ tính, tự nhiên như người thật, không uốn éo. Video 8K, 9:16, sắc nét rõ từng chi tiết, không zoom, không rung máy, không làm méo tay hay áo.
+Cô gái xoay nhẹ người sang bên, Camera lia mượt mà từ dưới lên, đảm bảo ánh sáng làm nổi bật vải áo và phom dáng trang phục. Chuyển động mượt mà, nữ tính, biểu cảm tự nhiên như người thật. 8K sắc nét từng chi tiết
+Tạo video chân thực như ngoài đời thật từ ảnh gốc. Cô gái đứng trước camera, giữ nguyên 100% khuôn mặt, tóc, kính, body, background, ánh sáng, màu sắc và bố cục. Cô gái dùng một tay vuốt tóc bên cạnh mặt, sau đó thả tay xuống chống một tay vào hông đồng thời mỉm cười nhẹ nhàng và tay còn lại thả tự nhiên. Chuyển động nhanh nhưng mềm mại, cá tính, tự nhiên như người thật, không uốn éo. Video 8K, 9:16, sắc nét rõ từng chi tiết, không zoom, không rung máy, không làm méo tay hay áo.
+Cô gái dùng một tay chạm nhẹ vào gọng kính như đang chỉnh kính đồng thời mỉm cười nhẹ nhàng sau đó khoanh tay tạo dáng chuyên nghiệp, cuối cùng nhìn lại camera với biểu cảm tự nhiên. Chuyển động mềm mại, nữ tính, nhanh gọn như quay thật. Giữ nguyên background, ánh sáng, màu sắc, khuôn mặt, tóc và outfit. Video 8K sắc nét, 9:16, photorealistic.
+Action thang máy
+Cô gái dùng tay nhẹ nhàng đẩy gọng kính lên đúng vị trí, sau đó buông tay tự nhiên. Chuyển động tự nhiên như người thật không được có nét giống AI, siêu chân thực
+Cô gái giữ nguyên tư thế cầm điện thoại chụp gương, từ từ bước về phía trước khoảng 2–3 bước với dáng đi tự nhiên và tự tin, tiến lại gần gương nên khuôn mặt và nửa thân trên dần chiếm nhiều khung hình hơn. Trong lúc di chuyển, cô hạ thấp dần điện thoại xuống rồi chỉnh nhẹ thân áo như người thật đang quay khoe outfit của mình. Áo luôn giữ nguyên vị trí mà không bị kéo lên hay căng ra, và không hề để lộ da thịt trong bất kỳ khoảnh khắc nào. Chuyển động cơ thể mượt mà, chân bước luân phiên tự nhiên, tóc và áo khoác đung đưa nhẹ theo quán tính. Sau khi đến gần gương, cô dừng lại và giữ nguyên tư thế chụp selfie trong vài giây.
+ 
+Ràng buộc:
+Giữ nguyên tuyệt đối 100% khuôn mặt, mái tóc, kính, tai nghe, trang phục, vóc dáng, tỷ lệ cơ thể, màu da, ánh sáng, bối cảnh thang máy và bố cục tổng thể. Không thay đổi thiết kế quần áo, không thêm hoặc xóa bất kỳ vật thể nào, không méo tay, méo chân hay điện thoại. Chuyển động tự nhiên giống người thật quay bằng điện thoại, mượt mà, siêu chân thực, không được có nét giống AI.
+Cô gái vẫn giữ điện thoại bằng một tay để chụp ảnh trước gương. Tay còn lại nhẹ nhàng giơ ký hiệu chữ V (✌️) bằng hai ngón tay đặt cạnh má, giữ tư thế tự nhiên và đáng yêu. Cô nghiêng đầu rất nhẹ, nhìn vào màn hình điện thoại, chớp mắt một lần rồi nở nụ cười nhẹ. Sau khoảng 2 giây, cô hạ tay xuống tự nhiên và tiếp tục giữ tư thế chụp selfie. Chuyển động mượt mà, chân thực như người thật, tóc và áo khoác dao động rất nhẹ theo chuyển động của cơ thể.
+Ràng buộc:
+Giữ nguyên tuyệt đối 100% khuôn mặt, mái tóc, kính, tai nghe, điện thoại, trang phục, vóc dáng, tỷ lệ cơ thể, màu da, ánh sáng, bối cảnh thang máy và bố cục ảnh gốc. Không thay đổi thiết kế quần áo, không thêm hoặc xóa bất kỳ vật thể nào, không méo ngón tay, bàn tay hay điện thoại. Chuyển động tự nhiên như quay bằng điện thoại ngoài đời, ổn định, không rung, không biến dạng, siêu chân thực.
+Mở đầu video cô gái tạo dáng chuyên nghiệp. Chuyển động mượt mà, cá tính, biểu cảm tự nhiên như người thật, siêu chân thực, không nói.
+The girl slowly and naturally straightens her shirt over approximately 3–4 seconds. Using one hand, she gently smooths the fabric from the upper chest to the waist in one continuous motion, then lightly adjusts the side of the shirt to remove minor wrinkles before lowering her hand. The shirt always stays in place without being lifted or stretched, and no skin is revealed at any moment. Every movement is subtle, relaxed, and indistinguishable from real human behavior. She maintains eye contact with the phone screen throughout, with natural breathing, occasional blinking, and realistic body mechanics. Preserve 100% of her face, hairstyle, body proportions, clothing, lighting, and camera angle. Ultra-realistic motion with no exaggerated gestures, no body deformation, no extra fingers or limbs, and no artificial animation.
+Cô gái chuyển trọng lượng từ chân trái sang chân phải rồi chỉnh nhẹ túi xách, tạo tư thế đứng thoải mái hơn trong khi vẫn giữ điện thoại chụp gương. Chuyển động tự nhiên như người thật không được có nét giống AI
+Trong khi vẫn giữ điện thoại ổn định, cô gái từ từ đưa tay còn lại lên đỡ cạnh bên điện thoại, tạo tư thế cầm điện thoại bằng cả hai tay giống như đang chuẩn bị chụp ảnh. Sau khi hoàn tất, cô giữ nguyên tư thế vài giây với biểu cảm tự nhiên.
+Tạo dáng chạm má dễ thương
+Subject & Setting: A medium shot of a stylish young Asian woman with short, soft black wolf-cut hair and thin round wire-frame glasses, standing inside a modern elevator with reflective stainless steel walls. She is holding a smartphone to record a mirror video.
+Camera Movement & Video Motion: The camera remains steady as a mirror reflection.
+0-2 seconds: She looks at the phone screen confidently, striking a casual pose.
+2-4 seconds: She slowly raises her right hand and gently touches her right cheek with her index finger, after that smiling smile gently in a cute, playful pose but still looks very distinctive and stylish
+4-5 seconds: She lowers her hand slightly while maintaining her bright, natural smile.Style: Photorealistic, smooth video motion, continuous movement, high-quality, social media video aesthetic.
+prompt tạo ảnh
+Thang máy
+{
+"image_generation_prompt": {
+"composition": {
+"type": "Vertical smartphone mirror selfie",
+"layout": "Vertical 9:16 composition, full body or cropped around đầu gối, shot from a slightly tilted natural selfie angle."
+},
+"subject": {
+"description": "Very beautiful slim adult woman with elegant natural proportions, lưng dài",
+"facial_extraction_details": {
+"instructions": "Trích xuất từ ảnh upload: Hình dáng khuôn mặt, đặc điểm ngũ quan, màu mắt, kiểu tóc v.v. Extracted strictly from the uploaded input source image. Do not change the underlying face structure. Preserve exact facial features, identity, proportions, skin texture, age, and facial structure. Do not redesign, beautify, or stylize,
+"features": {
+"face_shape": "Exact match to reference image",
+"eyes": "Exact match to reference image, including exact eye color",
+"nose": "Exact match to reference image",
+"lips": "Exact match to reference image",
+"skin": "Exact match to reference image, natural skin texture, realistic and not overly retouched",
+"hair": "Exact match to reference image's base hair color and style, tóc ở sau lưng, casual finish"
+}
+},
+"pose": {
+"action": "Taking a mirror selfie with a smartphone. One hand holds the phone facing the mirror, while the other hand casually lifts or touches her hair."
+},
+"wardrobe": {
+"clothing": "A fitted white low-cut top, paired with a light gray zip hoodie worn casually open, and quần đùi thời trang cá tính.",
+"accessories": "minimal understated jewelry, a casual shoulder bag, and a smartphone."
+}
+},
+"environment": {
+"setting": "Contemporary metallic elevator interior.",
+"background_details": "Reflective stainless-steel wall panels, a visible elevator button panel, and a softly glowing floor display. Subtle smudges, fingerprints, and real reflections on the metal. Tight enclosed framing that feels like an actual elevator selfie."
+},
+"lighting_and_aesthetics": {
+"lighting": "Soft indoor fluorescent elevator lighting. Even illumination with gentle metallic reflections and no dramatic shadowing.",
+"style": "Candid, realistic, slightly grainy phone-photo style. Modest resolution with subtle noise and no heavy processing. Casual urban lifestyle moment, effortless beauty, everyday realism."
+},
+"constraints": [
+"Must use the uploaded reference image as the absolute single source of truth for the subject's identity.",
+"Maintain 100% facial and identity consistency with the referenced subject.",
+"Must clearly depict a mirror selfie reflection with the smartphone visible in the subject's hand."
+],
+"negative_prompt": "studio lighting, over-smoothed skin, high-fashion photoshoot look, fantasy elements, unrealistic body proportions, extra limbs, heavy filters, professional DSLR quality, clean spotless mirror, deformed hands, missing fingers, floating phone, anime, 3D render"
+}
+}
+2. Phòng ngủ
+{
+"image_generation_prompt": {
+"composition": {
+"type": "Early-2000s digital camera mirror selfie",
+"layout": "Medium full shot, facing a mirror. Subject is positioned slightly to the right, holding a compact digital camera.",
+"text_elements": "Any text appearing in the image (e.g., on the t-shirt print, books, or posters) MUST be rendered strictly in Vietnamese."
+},
+"subject": {
+"description": "A young woman taking a photo of herself in a mirror, exhibiting a chic, cool, and confident aura.",
+"facial_extraction_details": {
+"instructions": "Trích xuất từ ảnh upload: Hình dáng khuôn mặt, đặc điểm ngũ quan, màu mắt, kiểu tóc v.v. Extracted strictly from the uploaded input source image. Do not change the underlying face structure. Preserve exact facial features, identity, proportions, skin texture, age, and facial structure. Do not redesign, beautify, or stylize. The generated subject must be the exact same person as the reference across all panels.",
+"features": {
+"face_shape": "Exact match to reference image",
+"eyes": "Exact match to reference image, including exact eye color",
+"nose": "Exact match to reference image",
+"lips": "Exact match to reference image",
+"skin": "Exact match to reference image",
+"hair": "Exact match to reference image's base hair color and style"
+}
+},
+"expression": "Looking directly at the camera screen in the mirror, cute, dreamy, innocent, and playful expression.",
+"pose": {
+"action": "Standing turned slightly to the right. Left hand holding a compact digital camera up at face level. Right hand elegantly running fingers through her hair in a chic, alluring way."
+},
+"wardrobe": {
+"clothing": "White strapless top with a cute cartoon print on the front, paired with puffed short pants featuring a gray checkered pattern. The fit highlights a slim, feminine figure.",
+"accessories": "No flower in the ear."
+},
+"hair": "Long, straight dark hair flowing down her back. Slightly blowing, chic, lightly messy layered texture. Small strands of hair partially covering the face.",
+"makeup": "Pink blush on the cheeks with a soft rosy tone on the cheeks and nose. Lips in a glossy pink-orange shade."
+},
+"environment": {
+"setting": "Clean and minimal bedroom with a white-gray color tone.",
+"background_details": "A bed covered with light-colored bedding, featuring several brown and cream teddy bears neatly arranged. Beside the bed is a white shelf. On the shelf: a framed photo of the subject, a cream-colored teddy bear placed in front of it, books, a small box, and small minimalist accessories."
+},
+"lighting_and_aesthetics": {
+"lighting": "Strong direct flash (Canon IXUS style) hitting the face directly, creating harsh shadows behind the subject and high contrast.",
+"style": "Early-2000s compact digital camera aesthetic, Y2K photography, nighttime flash photography, soft room lighting with a cool tone, making the image look clean, calm, and orderly."
+},
+"constraints": [
+"Must use the uploaded reference image as the absolute single source of truth for the subject's identity.",
+"Maintain 100% facial and identity consistency with the referenced subject.",
+"ALL text elements rendered in the image MUST be strictly in Vietnamese.",
+"Emulate the distinct look of an early-2000s point-and-shoot camera flash."
+],
+"negative_prompt": "over polished, artificial studio lighting, DSLR quality, modern smartphone, excessive cleavage, oversexualized, deformed hands, extra fingers, english text, cartoon, CGI, 3D render"
+}
+}
+3. Làm nũng
+{
+"Chi tiết_trích_mặt": {
+"instructions": "Trích xuất từ ảnh upload: Hình dáng khuôn mặt, đặc điểm ngũ quan, màu mắt, kiểu tóc v.v. Extracted strictly from the uploaded input source image. Do not change the underlying face structure. Preserve exact facial features, identity, proportions, skin texture, age, and facial structure. Do not redesign, beautify, or stylize. The generated subject must be the exact same person as the reference across all 6 panels.",
+"tính năng": {
+"face_shape": "Khớp chính xác với hình ảnh tham chiếu",
+"đôi mắt": "Khớp đúng với hình ảnh tham chiếu, bao gồm màu mắt chính xác",
+"mũi": "Khớp chính xác với hình ảnh tham chiếu",
+"môi": "Khớp chính xác với hình ảnh tham chiếu",
+"da": "Khớp chính xác với hình ảnh tham chiếu",
+"tóc": "Phù hợp chính xác với màu tóc và kiểu dáng của hình ảnh tham khảo"
+}
+},
+"image_prompt_details": {
+"chủ đề": "Ảnh điện thoại thông minh dọc siêu thực của một phụ nữ Nhật Bản 18 tuổi bị hư cấu. ",
+"khuôn_mặt_và_biểu_hiện": "Khuôn mặt bầu dục nhỏ mềm mại, da sáng mịn nhưng thật, đôi mắt to nâu đậm ấm áp, trang điểm mắt tự nhiên tinh tế, má hồng đào mềm mại, sống mũi nhỏ tự nhiên, và đôi môi hồng hào mềm mại. Đôi má của cô ấy đang được bĩu lên nhẹ nhàng trong biểu cảm "muu" đáng yêu, với đôi môi của cô ấy hơi được ví, nhìn thẳng vào máy ảnh. Biểu cảm của em ấy bình tĩnh, nhút nhát, nghịch ngợm, tự nhiên dễ thương, không tạo dáng quá nhiều. ",
+"tóc": "Nâu tro nhạt, dài ngang vai với những lọn xoăn mềm mại ở phần cuối. Cô ấy có mái mỏng thẳng xuyên thấu che trán, sợi tự nhiên hơi không đều, đuôi ngựa nhỏ buộc hai bên với cột tóc màu đen nhỏ. Tóc nên trông thật, mềm mại và hơi thoáng mát, có thể nhìn thấy từng sợi riêng. ",
+"clothing_and_accessories": "Áo hoodie màu đen oversize với kiểu dáng rộng thoải mái, kết cấu cotton mềm mại, dây rút treo tự nhiên và một biểu tượng đồ họa nhỏ màu trắng ở ngực trái. Một chiếc túi đeo chéo mini màu đen nhỏ được đeo ngang mặt trước thân cô ấy, với kết cấu giống như da bóng, chi tiết khóa kéo và phần cứng bằng kim loại. Bộ ấm chân loang màu trắng và vớ màu đen có thể nhìn thấy ở dưới đáy khung. ",
+"pose_and_composition": "Góc nhìn tự sướng góc cao từ trên đầu cô ấy, ảnh điện thoại thông minh dọc 4:5. Cô ấy đứng ngoài trời nhìn lên máy ảnh, cơ thể hơi góc cạnh, đôi vai thư giãn, cánh tay ôm sau lưng, tạo dáng dễ thương nhút nhát. Khung bao gồm khuôn mặt của cô ấy, thân trên, túi đeo chéo, áo hoodie, đùi, áo giữ ấm chân trắng, vớ tối và một phần của mặt đất. Ống kính smartphone góc rộng nhẹ méo, khuôn mặt ở giữa trên của khung. ",
+"phông nền": "Bức tường bê tông màu nhạt phía sau cô ấy, ghế ghế gỗ tối hoặc đen ở bên phải, đá sỏi nhạt ở mặt đất, lắp đặt ngoài trời trung tính đơn giản. Nền sạch và thực tế, hơi mềm nhưng vẫn dễ nhận ra. ",
+"ánh sáng": "Ánh sáng tự nhiên ban ngày mềm mại khuếch tán, không có bóng gắt, tông da sáng nhẹ nhàng, các bóng chân thực quanh mắt, dưới cằm và bên trong các nếp gấp hoodie. ",
+"phong cách": "Chân dung đường phố bình dân Nhật Bản siêu thực, chụp ảnh chân thực theo phong cách iPhone, kết cấu da tự nhiên, lỗ chân lông mịn trông thấy, sợi tóc chân thực, mềm mại nhưng điểm nhấn vào đôi mắt sắc nét, màu sắc chân thực, nén nhẹ trên điện thoại thông minh, không hoàn hảo cầm tay tinh tế, không chỉnh sửa quá mức, không phải nhựa, không giống búp bê, không phải CGI. ",
+"camera_settings": "Ảnh điện thoại thông minh dọc 4:5, ảnh tự sướng góc cao, nhìn ống kính thông minh 24mm, khoảng cách gần, phá cách góc nhìn tự nhiên, chi tiết khuôn mặt giòn, chiều sâu thực tế, chụp nhanh thời trang đường phố chân thật. ",
+"text_requirements": "Trên ảnh nếu có text thì bắt buộc chuyển về tiếng Việt."
+}
+}
+4. Phòng tắm
+{
+"input": {
+"prompt_description": {
+"subject": {
+"physical_attributes": {
+"description": "A young girl with long straight black hair and soft wispy bangs.",
+"skin": {
+"texture": "realistic",
+"tone": "natural"
+},
+"hair": {
+"style": "long, straight, black, wispy bangs",
+"action": "one hand gently touching her hair"
+}
+},
+"wardrobe": "Oversized blue plaid flannel shirt over a black crop top and a black mini skirt.",
+"pose_action": "Standing in front of a bathroom mirror, holding a smartphone with a cute character case, taking a casual mirror selfie."
+},
+"setting_context": {
+"environment": "A modern minimalist bathroom.",
+"details": "neutral-toned tiles, large mirror, soft indoor lighting, clean sink, and contemporary interior details visible in the background.",
+"lighting": "natural indoor lighting, soft, unedited."
+},
+"props": {
+"phone": "smartphone with a cute character case"
+},
+"style_quality": {
+"base_aesthetic": "handheld smartphone photo, authentic mirror selfie, casual social media aesthetic, unedited everyday snapshot.",
+"quality_markers": [
+"photorealistic",
+"realistic skin texture",
+"realistic reflections",
+"imperfect framing",
+"iPhone camera quality",
+"slight phone-camera softness",
+"no professional photography setup",
+"no studio lighting",
+"no cinematic color grading",
+"spontaneous lifestyle moment",
+"high-quality mobile photography",
+"cozy everyday vibe"
+]
+}
+},
+"image_to_image": {
+"reference_instructions": {
+"input_source": "user_uploaded_reference_image.png",
+"reference_requirements": [
+"Identify and extract the facial shape of the person.",
+"Capture the characteristics of the facial features (five organs: ngũ quan).",
+"Extract the eye color.",
+"Adopt the specific hairstyle (long straight black hair with soft wispy bangs, as described and seen).",
+"Extract skin tone and general likeness."
+],
+"consistency_rule": "The generated images must always depict the exact same person. The identity extracted from the uploaded reference image must be strictly maintained across any and all generated variations. The description provided in the text prompt serves as the context for the generation, while the uploaded image is the definitive source for the individual's appearance."
+}
+}
+}
+}
+Sửa ảnh chân thực
+A high-fidelity, hyper-realistic re-imagining of the scene in image_0.png. The key is to add maximum skin and hair realism. Detail the young woman's face with visible, fine skin pores, subtle micro-textures, and perhaps a few natural, small imperfections, moving away from a 'plastic' smooth look. The girl was wearing a pair Korean-style women's fashion glasses looks very feminine.The hair must have individual, sharply defined strands, including fine 'flyaway' hairs and realistic 'peach fuzz' on her arms and forehead, No hair draped over the front. Adjust proportions to elongate the torso slightly, creating a balanced body ratio and avoiding a short back appearance. Keep her pose, mirror selfie setup, and clothing identical, Subtle smudges, fingerprints, and real reflections on the metal. Enhance textures for the denim shorts and grey jacket too. Shot as if with a macro lens.
+Các góc căn phòng Đồng bộ background
+Use the reference image as the primary reference.
+The young woman is locked exactly as in the reference image.
+Keep 100% identical:
+- face
+- hairstyle
+- expression
+- clothing
+- body proportions
+- pose
+- hand position
+- leg position
+- body orientation
+- framing
+- body size
+- distance to camera
+- lighting on the woman
+Treat the woman as a locked foreground subject.
+Only regenerate the background.
+The new background MUST represent another viewpoint of the EXACT SAME room.
+Before generating the new background, infer the room layout from the reference image:
+- infer the direction of the natural light source
+- infer where the windows are located
+- infer the room geometry
+- infer the position of walls
+- infer the location of furniture
+- infer which objects should become hidden or visible when viewed from another angle
+The new background must follow realistic spatial continuity.
+Objects that should logically disappear from the new viewpoint must not be visible.
+Objects that should logically appear from the new viewpoint should become visible.
+Do not duplicate furniture.
+Do not move furniture to impossible locations.
+Do not invent another apartment.
+Keep identical:
+- wall color
+- flooring
+- ceiling
+- ceiling beams
+- lighting direction
+- architectural style
+- room proportions
+The final image must look like the photographer simply walked to another corner of the same room.
+Edit chuyên sâu
+Soft rosy complexion korean, realistic pores, glossy lips, subtle aegyo sal, realistic soft cheek blush. The hair must have individual, sharply defined strands, including fine 'flyaway' hairs and realistic 'peach fuzz' on her arms and forehead, No hair draped over the front. Tuyệt đối giữ nguyên từng đường nét khuôn mặt gốc của cô gái, màu tóc và lớp trang điểm cũng như màu sắc đúng như ảnh gốc.
+Negative prompt : AI-looking, plastic skin, distorted arms, over-smoothed face, fake lighting, stiff influencer pose, blurry eyes.
+2. A high-fidelity, hyper-realistic re-imagining of the scene in image_0.png. The key is to add skin and hair realism. Detail the young woman's face with visible, moving away from a 'plastic' smooth look. The hair must have individual, sharply defined strands, including fine 'flyaway' hairs and realistic 'peach fuzz' on her arms and forehead, No hair draped over the front. Tuyệt đối giữ nguyên từng đường nét khuôn mặt gốc của cô gái, màu tóc và lớp trang điểm cũng như màu sắc đúng như ảnh gốc.
+Negative prompt : AI-looking, plastic skin, distorted arms, over-smoothed face, fake lighting, stiff influencer pose, blurry eyes.
+3. Tóc
+Hair:
+A natural Viet Nam low messy updo with a soft center part. The hair is loosely gathered into a low bun at the back of the head, not a tight ballerina bun. The crown has subtle natural volume. Long wispy face-framing strands fall freely along both cheeks to around jaw level. Fine baby hairs and flyaway strands remain visible around the forehead and temples, creating an effortless lived-in appearance. The hairstyle looks soft, airy, feminine, and slightly undone rather than perfectly styled. Dark brown to natural black hair with a matte texture.
+Thay đồ lắc đít
+Virtual try-on task: Replace the current outfit of the girl in Image 2 with the exact outfit from Image 1. Fit the new outfit seamlessly onto her body in Image 2, following her original body contour and pose. Keep her face, expression, hair, body shape, background, and lighting completely unchanged from Image 2. (không vòng tay)

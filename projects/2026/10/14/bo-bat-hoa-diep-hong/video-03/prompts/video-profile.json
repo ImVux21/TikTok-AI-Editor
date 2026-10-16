@@ -1,0 +1,19 @@
+{
+  "video_id": "video-03",
+  "title": "Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03",
+  "template_name": "DAILY VLOG",
+  "template_path": "workflow/assets/daily-vlog-mode.txt",
+  "template_sha256": "4F5AE6490436166A745F99F9ECC8E8BF6C387E3F018891BD98747109D5996A11",
+  "model": "Veo 3.1 - Quality",
+  "flow_mode": "Frames",
+  "aspect_ratio": "9:16",
+  "resolution": "Flow currently exposes 720p for this model; final export is upscaled to 1080x1920",
+  "scene_duration_seconds": 8,
+  "source_references": {
+    "table_before": "input/table-before-ai.png",
+    "table_after": "input/table-after-ai.png",
+    "product_identity_only_for_qa": "input/product-reference-ui-source.jpg",
+    "user_scene_identity_only_for_qa": "input/user-table-product-reference.png"
+  },
+  "template_path_note": "The composer script currently resolves its project root to C:\\Users rather than the repository root. The scene full prompts were composed from the canonical template file listed above and verified byte-for-byte against its locked SHA-256."
+}

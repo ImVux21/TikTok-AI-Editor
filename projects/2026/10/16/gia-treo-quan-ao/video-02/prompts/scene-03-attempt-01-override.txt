@@ -1,0 +1,6 @@
+SCENE-SPECIFIC PRECEDENCE — apply these approved constraints when any earlier source-template instruction conflicts:
+1. Reuse the exact approved scene-01 master image `storyboard/scene-01-v01-raw.png` v01, SHA-256 `FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65`, unchanged as this scene's start frame. Its reuse is deliberate to return to the master composition for CTA. There is no end frame. Do not modify the still or invent any unseen geometry.
+2. The locked script defines this as a visual return/CTA beat. CTA narration is separate V3 audio; do not speak or render it in Flow. Do not add use demonstrations or unsupported claims.
+3. Keep the complete product in frame, including top hooks/rails and both feet/lower connectors. Only a slight crop-safe handheld settle is allowed. No zoom, tilt, orbit, angle change, crop, vertical reframe, FOV widening, cut or new scene content.
+4. Flow must create no speech, dialogue, lyrics, vocalization, speaker, or visible speaking person. Optional nonverbal ambience only; V3 narration and tags remain separate.
+5. Preserve the same locked template bytes. Use only compatible casual pacing and subtle handheld feel; disregard incompatible angle variations, product-use/action, props, dialogue, or staging instructions.

@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H90000000,&H64000000,1,0,1,2,1,8,36,36,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.90,Default,,0,0,0,,{\an8\pos(360,72)}Hoa Diệp Hồng\NViền xám thanh nhã
+Dialogue: 0,0:00:04.90,0:00:09.80,Default,,0,0,0,,{\an8\pos(360,72)}Tô canh hai quai
+Dialogue: 0,0:00:09.80,0:00:15.30,Default,,0,0,0,,{\an8\pos(360,72)}Bộ 31 chi tiết*
+Dialogue: 0,0:00:15.30,0:00:20.96,Default,,0,0,0,,{\an8\pos(360,72)}Tặng 10 thìa + 1 muôi\NXem chi tiết ở giỏ hàng

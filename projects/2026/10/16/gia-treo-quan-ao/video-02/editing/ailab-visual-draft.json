@@ -1,0 +1,73 @@
+{
+  "segments": [
+    {
+      "attributes": {
+        "height": 1280,
+        "width": 720
+      },
+      "id": "draft",
+      "type": "DRAFT"
+    },
+    {
+      "attributes": {
+        "background.blur": 1,
+        "end.ms": 3256,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjanog65hrivqpjm0",
+        "start.ms": 0,
+        "volume": 0
+      },
+      "id": "video_0",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "draft",
+      "timeline": {
+        "duration.ms": 3256,
+        "start.ms": 0
+      },
+      "type": "VIDEO"
+    },
+    {
+      "attributes": {
+        "background.blur": 1,
+        "end.ms": 3336,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjbfog65p8rau0lhg",
+        "start.ms": 0,
+        "volume": 0
+      },
+      "id": "video_1",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "draft",
+      "timeline": {
+        "duration.ms": 3336,
+        "start.ms": 3256
+      },
+      "type": "VIDEO"
+    },
+    {
+      "attributes": {
+        "background.blur": 1,
+        "end.ms": 2619,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjbvog65s6kg2jsc0",
+        "start.ms": 0,
+        "volume": 0
+      },
+      "id": "video_2",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "draft",
+      "timeline": {
+        "duration.ms": 2619,
+        "start.ms": 6592
+      },
+      "type": "VIDEO"
+    }
+  ],
+  "version": "0.1.0"
+}

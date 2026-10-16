@@ -1,0 +1,81 @@
+{
+  "project_name": "Bộ bát hoa Diệp Hồng — thử đồng bộ audio Flow — video 04",
+  "video_id": "video-04",
+  "run_type": "single_scene_audio_sync_test",
+  "status": "generated_waiting_download",
+  "date": "2026-10-14",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "scene_duration_seconds": 8
+  },
+  "flow": {
+    "project_id": "28eab504-fb48-4091-aec4-5236d64628ab",
+    "project_url": "https://flow.google.com/project/28eab504-fb48-4091-aec4-5236d64628ab",
+    "model": "Veo 3.1 - Lite",
+    "mode": "Video / Frames",
+    "resolution": "720p",
+    "aspect_ratio": "9:16",
+    "duration_seconds": 8,
+    "outputs_per_prompt": 1,
+    "credit_quote": 10,
+    "generation_id": "a161165d-ea15-4a98-8dfb-b118b4108d0e",
+    "generated_asset_url": "https://flow.google.com/project/28eab504-fb48-4091-aec4-5236d64628ab/edit/a161165d-ea15-4a98-8dfb-b118b4108d0e",
+    "downloaded_file": null,
+    "generation_attempts": [
+      {
+        "attempt": 1,
+        "submitted_at": "2026-10-14T16:35:56+07:00",
+        "status": "generated_download_not_located",
+        "completed_at": "2026-10-14T16:37:00+07:00",
+        "generation_id": "a161165d-ea15-4a98-8dfb-b118b4108d0e",
+        "credit_quote": 10,
+        "references": [
+          "../video-03/input/table-after-ai.png (first frame)",
+          "../video-03/input/table-after-ai.png (last frame)"
+        ]
+      }
+    ]
+  },
+  "references": {
+    "first_frame": "../video-03/input/table-after-ai.png",
+    "last_frame": "../video-03/input/table-after-ai.png",
+    "product_identity_qa_only": "../video-03/input/product-reference-ui-source.jpg",
+    "user_table_context_qa_only": "../video-03/input/user-table-product-reference.png"
+  },
+  "audio_policy": {
+    "provider": "Google Flow generated audio",
+    "language": "Vietnamese",
+    "dialogue": "Mâm cơm nhà, chọn chén đĩa cùng tông nhìn sẽ hài hòa hơn.",
+    "requested_voice": "Adam",
+    "voice_selection_status": "unverified_no_selector_visible_in_Flow_settings",
+    "delivery_style": "low, clear, natural male storyteller voice",
+    "visible_speaker": false,
+    "source_audio_status": "not_reviewed_download_not_located"
+  },
+  "script": "scripts/scene-script.md",
+  "prompts": {
+    "profile": "prompts/video-profile.json",
+    "prefix": "prompts/scene-01.prefix.txt",
+    "full": "prompts/scene-01.full.txt"
+  },
+  "qa": {
+    "generation_log": "qa/generation-log.md",
+    "source_clip_review": "qa/source-clip-review.md",
+    "capcut_sync_review": "qa/capcut-sync-review.md"
+  },
+  "capcut": {
+    "draft_session_id": null,
+    "source_clip": null,
+    "export": "output/video-04-audio-sync-test.mp4",
+    "status": "blocked_waiting_for_local_source_clip",
+    "blocker": "Flow reported the download starting, but no file appeared in Downloads or Temp; a safe browser downloads-page view was rejected by browser policy. No audio or image QA performed."
+  },
+  "publishing": {
+    "post_package": null,
+    "reason": "Single-scene audio/video sync test; not a publishable video run."
+  }
+}

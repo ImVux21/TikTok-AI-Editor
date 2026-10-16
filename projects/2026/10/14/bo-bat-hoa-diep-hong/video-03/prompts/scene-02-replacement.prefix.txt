@@ -1,0 +1,14 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 2 REPLACEMENT
+Video: Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03. One 8-second scene only, vertical 9:16, Flow Frames mode. This covers the middle of the 24-second edit. Match the exact same full meal-table composition at the first and last supplied frames.
+
+IMAGE SLOTS
+First frame and last frame are both input/table-after-ai.png. Use those frames to preserve continuity. The product-reference files are for human QA only and are not Flow ingredients.
+
+ACTION AND FRAMING
+A casual human-operated smartphone clip from the same family meal. Start with the whole table clearly recognizable. The filmer makes one slow, short physical lean toward the scalloped dish with blue-gray decoration, showing the rim and leaf motif while keeping at least half of the full dish visible in frame; gently drift across one neighboring existing patterned piece, then step back to the same wide table view. This is a modest real-camera move, not a macro shot, digital zoom, orbit or product commercial. Use small natural hand-held sway and autofocus, warm window light. Keep all food, dishes, utensils, flowers, placemat and table objects still and in their original positions.
+
+PRODUCT PRESERVATION
+Keep every plate and bowl white glazed ceramic with the visible scalloped outlines, narrow blue-gray edge and same blue-gray leaf/floral pattern. Keep counts, shapes and positions as supplied. No morphing, extra/missing/duplicated pieces, changed food, steam, hands, people, text, logo, watermark, platform UI or generated audio. Do not imply any unverified performance claim. This is clearly an AI reenactment; voice and captions are added in post. No lip-sync.
+
+VOICE-OVER GUIDE, POST-PRODUCTION ONLY
+0:08–0:14 “Bộ Diệp Hồng có viền xanh xám, điểm hoa lá — nhìn cả mâm gọn mắt hơn.” Begin the listing count note at 0:14.

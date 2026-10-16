@@ -1,0 +1,148 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 1 OF 1
+Video: Bộ bát hoa Diệp Hồng — thử đồng bộ audio Flow — video 04. One 8-second scene only, vertical 9:16. This is a single building block for the audio/video sync test, not a complete published video. Use the currently selected Flow video mode and settings only after the coordinator verifies them in the live UI.
+
+REFERENCES AND PRODUCT IDENTITY
+Use `../video-03/input/table-after-ai.png` as the exact first- and last-frame visual anchor if the verified Flow mode supports keyframes. It shows the already-laid meal table and the exact scene background. Use `../video-03/input/product-reference-ui-source.jpg` and `../video-03/input/user-table-product-reference.png` only as supplementary human QA references if the verified Flow mode supports them; otherwise keep them for post-generation QA and do not claim they were generation inputs. Keep the set and every visible object exactly as shown in the table image.
+
+SCENE OBJECTIVE AND ACTION
+Show one calm, continuous eight-second smartphone shot of the already-set dining table. The invisible filmer makes a gentle, slow handheld drift across the existing tableware, maintaining enough distance to see the matching set together. Nothing is placed, picked up, touched, or moved. Generate the exact Vietnamese voiceover sentence once, in Vietnamese: “Mâm cơm nhà, chọn chén đĩa cùng tông nhìn sẽ hài hòa hơn.” Voice only, with no visible speaker and no lip movement. Request the same low, clear, natural male storyteller delivery in every scene, in the style requested as Adam; do not claim an exact Adam preset unless the live Flow interface exposes and confirms that selector. Speak only the quoted sentence; do not read any prompt or camera direction aloud.
+
+CAMERA, FRAMING, AND CONTINUITY
+Portrait 9:16 smartphone footage, steady high three-quarter overhead view of the full laid table, with one restrained slow lateral drift and subtle human handheld imperfection. Keep the tableware legible and within frame throughout; no cutaways, shot changes, macro, fast pan, zoom, or camera rush. Maintain the same warm daylight, wood table, flowers, food, utensils, placemat, dishes, and exact object positions as `table-after-ai.png`. End on a stable view close to the initial composition.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Preserve the set's exact visible piece count, white ceramic glaze, scalloped outlines, blue-gray rims, floral/leaf pattern, size, proportions, and placement. Do not add, remove, duplicate, slide, rotate, replace, or morph ceramics. Do not alter food, flowers, table, utensils, lighting, or background. No hands, people, visible speaker, extra props, steam, labels, text, subtitles, music, effects, logo, brand mark, or interface. No product claims beyond the supplied dialogue. The only generated sound should be the specified Vietnamese voiceover; no extra speech or music.
+
+SOURCE-TEMPLATE FIT NOTE
+The locked DAILY VLOG template recommends approximately 5–8 short shots in 10 seconds, while this approved test requires one continuous 8-second shot to isolate audio/video synchronization. Keep the source template appended unchanged; this prefix states the test's single-shot requirement. If Flow follows the source montage guidance and produces multiple cuts, record that as a template conflict during QA rather than silently changing the source template.
+
+10-SECOND DAILY VLOG MODE
+When the requested video duration is 10 seconds, prioritize a fast-paced real-life daily-vlog montage rather than a traditional product commercial.
+The video should feel like:
+“Someone casually filmed this useful product during a normal moment at home.”
+NOT:
+“A 3D product animation with multiple camera angles.”
+CORE STYLE
+Use approximately 5–8 short shots within 10 seconds.
+Each shot should last roughly 0.7–2 seconds, depending on the action.
+The camera should continuously feel human-operated, as if the person filming is physically moving around the room and capturing different moments with a smartphone.
+The viewer should feel like they are watching fragments of a real daily routine.
+10-SECOND RHYTHM
+Use this general structure:
+0:00–0:01.2 — HOOK
+Start with an interesting detail, problem, action, or visually satisfying moment.
+0:01.2–0:02.4 — CONTEXT
+Quickly reveal the environment or situation.
+0:02.4–0:03.6 — PRODUCT
+Reveal the product from another angle.
+0:03.6–0:05.0 — ACTION
+Show the product performing its useful function.
+0:05.0–0:06.3 — DETAIL
+Cut to a close-up or macro detail.
+0:06.3–0:08.0 — RESULT
+Show the visible transformation or benefit.
+0:08.0–0:10.0 — PAYOFF
+Show the finished result with a natural handheld camera move.
+This is a flexible framework, not a mandatory sequence.
+Adapt the timing to the product.
+MULTI-ANGLE DAILY VLOG LANGUAGE
+Use frequent but motivated changes in:
+Camera distance
+Camera height
+Camera angle
+Direction
+Framing
+Shot size
+Camera position
+Possible sequence:
+Wide → Medium → Close-up → Macro → Side angle → Top-down → Wide/Medium reveal
+Do NOT make every shot look perfectly composed.
+Allow slight natural differences between shots.
+This should feel like a person quickly capturing interesting moments, not a professional camera rig following a programmed shot list.
+TRANSITIONS
+Prioritize natural physical transitions over digital effects.
+Good transitions:
+Camera moves past an object and cuts.
+Product fills the frame and cuts to detail.
+Quick handheld reframing.
+Movement in one shot continues into the next.
+Match movement between two shots.
+Cut on action.
+Object briefly covers the lens.
+Natural whip-pan caused by the person turning the phone.
+Camera approaches a surface and cuts to a close-up.
+Avoid:
+Flash transitions.
+Glitch transitions.
+3D transitions.
+Spin transitions.
+Artificial light streaks.
+Overly cinematic transitions.
+Random effects.
+The cuts should feel like real vlog editing.
+HUMAN-OPERATED CAMERA CONTINUITY
+Although the video contains no visible person, every shot should imply that the same invisible person is filming.
+For example:
+Shot 1:
+The camera is standing several steps away.
+Shot 2:
+The person has physically moved closer.
+Shot 3:
+The person has moved to the side.
+Shot 4:
+The person lowers the phone.
+Shot 5:
+The person brings the phone closer for a detail.
+Shot 6:
+The person steps back to show the result.
+This creates the feeling of a real continuous filming session.
+Do not make the camera teleport between positions.
+CAMERA IMPERFECTION
+Allow subtle realistic imperfections:
+Slight handheld shake.
+Tiny framing corrections.
+Small exposure adjustment.
+Slight autofocus change.
+Natural motion blur.
+Small variations in camera height.
+Slightly imperfect composition.
+These imperfections should be subtle.
+Do NOT make the footage shaky or amateurish.
+The goal is:
+REALISTIC SMARTPHONE FOOTAGE, NOT BAD CAMERA WORK.
+PRODUCT PRESERVATION
+Even with rapid cuts, the product must remain identical across every shot.
+Maintain:
+Same shape
+Same color
+Same material
+Same proportions
+Same details
+Same logo
+Same design
+No morphing between angles.
+EDITING FEEL
+The final 10 seconds should feel:
+Fast
+Casual
+Natural
+Addictive
+Visually varied
+Real-life
+Smartphone-shot
+Lifestyle-oriented
+Avoid the feeling of a traditional polished TV advertisement.
+Think:
+“A person casually filming a useful thing they use during their day.”
+rather than:
+“A company presenting a product.”
+IMPORTANT
+Do not increase the number of shots just for the sake of speed.
+Every cut must reveal something new:
+new angle, new detail, new action, new context, or new result.
+The viewer should feel that something new is happening every 1–2 seconds.
+Final priority:
+REAL DAILY VLOG FEEL > CINEMATIC COMMERCIAL FEEL
+MULTIPLE REAL CAMERA ANGLES > AUTOMATED CAMERA MOVEMENT
+FAST VISUAL STORYTELLING > LONG PRODUCT SHOTS
+NATURAL CUTS > SPECIAL EFFECT TRANSITIONS

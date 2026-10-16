@@ -1,0 +1,20 @@
+{
+  "status": "example_only_not_production_approved",
+  "scenes": [
+    {
+      "id": "scene_1",
+      "onScreenHeadline": "Một giá • hai thanh treo",
+      "voiceTextRaw": "[playful] Mấy dợ nhìn nè... một giá mà có cả thanh trên, thanh dưới luôn á!"
+    },
+    {
+      "id": "scene_2",
+      "onScreenHeadline": "Nhìn rõ từng chi tiết",
+      "voiceTextRaw": "[excited] Thanh treo cao thấp khác nhau, bên hông còn có móc nữa nè mấy ní."
+    },
+    {
+      "id": "scene_3",
+      "onScreenHeadline": "Xem đúng phân loại trong giỏ",
+      "voiceTextRaw": "[playful] Ưng kiểu này thì mở giỏ hàng xem nha... nhớ chọn đúng phân loại. Dứt!"
+    }
+  ]
+}

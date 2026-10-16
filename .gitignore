@@ -1,0 +1,44 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# MCP & Temporary logs
+.playwright-mcp/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Large media files (videos)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Generated output media
+projects/**/output/*.png
+projects/**/output/*.jpg
+projects/**/output/*.jpeg
+projects/**/output/*.webp
+projects/**/exports/*.png
+projects/**/exports/*.jpg
+
+# Extracted QA review frames and contact sheets
+projects/**/qa/**/*.png
+projects/**/qa/**/*.jpg
+projects/**/qa/**/*.jpeg
+projects/**/qa/**/*.webp

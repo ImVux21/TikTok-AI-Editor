@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-10-16",
+  "method": "read_only_connector",
+  "voice": {
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "name": "Adam - Dominant, Firm",
+    "category": "premade",
+    "labels": {
+      "gender": "male",
+      "age": "middle_aged",
+      "language": "en",
+      "use_case": "social_media",
+      "accent": "american"
+    },
+    "listed": true,
+    "generation_tested": false,
+    "vietnamese_listening_tested": false
+  },
+  "model_schema": {
+    "model_id": "eleven_v3",
+    "model_name": "ElevenLabs v3",
+    "node_type": "tts",
+    "parameters": [
+      {
+        "name": "voice_id",
+        "type": "text",
+        "required": false,
+        "description": "Deprecated: legacy alias of `voice`. Accepted on input only; not written by new clients."
+      },
+      {
+        "name": "language_code",
+        "type": "text",
+        "required": false,
+        "description": "BCP-47 language code for multilingual models."
+      }
+    ],
+    "input_ports": [
+      {
+        "key": "prompt",
+        "modality": "text",
+        "required": false
+      }
+    ]
+  },
+  "speech_tool_exposes_speed": false,
+  "chosen_speed": 1.2,
+  "application_plan": "CapCut audio playback rate with pitch preservation; align captions after speed adjustment; do not apply twice",
+  "credits_spent": 0
+}

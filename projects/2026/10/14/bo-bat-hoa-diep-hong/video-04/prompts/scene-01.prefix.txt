@@ -1,0 +1,17 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 1 OF 1
+Video: Bộ bát hoa Diệp Hồng — thử đồng bộ audio Flow — video 04. One 8-second scene only, vertical 9:16. This is a single building block for the audio/video sync test, not a complete published video. Use the currently selected Flow video mode and settings only after the coordinator verifies them in the live UI.
+
+REFERENCES AND PRODUCT IDENTITY
+Use `../video-03/input/table-after-ai.png` as the exact first- and last-frame visual anchor if the verified Flow mode supports keyframes. It shows the already-laid meal table and the exact scene background. Use `../video-03/input/product-reference-ui-source.jpg` and `../video-03/input/user-table-product-reference.png` only as supplementary human QA references if the verified Flow mode supports them; otherwise keep them for post-generation QA and do not claim they were generation inputs. Keep the set and every visible object exactly as shown in the table image.
+
+SCENE OBJECTIVE AND ACTION
+Show one calm, continuous eight-second smartphone shot of the already-set dining table. The invisible filmer makes a gentle, slow handheld drift across the existing tableware, maintaining enough distance to see the matching set together. Nothing is placed, picked up, touched, or moved. Generate the exact Vietnamese voiceover sentence once, in Vietnamese: “Mâm cơm nhà, chọn chén đĩa cùng tông nhìn sẽ hài hòa hơn.” Voice only, with no visible speaker and no lip movement. Request the same low, clear, natural male storyteller delivery in every scene, in the style requested as Adam; do not claim an exact Adam preset unless the live Flow interface exposes and confirms that selector. Speak only the quoted sentence; do not read any prompt or camera direction aloud.
+
+CAMERA, FRAMING, AND CONTINUITY
+Portrait 9:16 smartphone footage, steady high three-quarter overhead view of the full laid table, with one restrained slow lateral drift and subtle human handheld imperfection. Keep the tableware legible and within frame throughout; no cutaways, shot changes, macro, fast pan, zoom, or camera rush. Maintain the same warm daylight, wood table, flowers, food, utensils, placemat, dishes, and exact object positions as `table-after-ai.png`. End on a stable view close to the initial composition.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Preserve the set's exact visible piece count, white ceramic glaze, scalloped outlines, blue-gray rims, floral/leaf pattern, size, proportions, and placement. Do not add, remove, duplicate, slide, rotate, replace, or morph ceramics. Do not alter food, flowers, table, utensils, lighting, or background. No hands, people, visible speaker, extra props, steam, labels, text, subtitles, music, effects, logo, brand mark, or interface. No product claims beyond the supplied dialogue. The only generated sound should be the specified Vietnamese voiceover; no extra speech or music.
+
+SOURCE-TEMPLATE FIT NOTE
+The locked DAILY VLOG template recommends approximately 5–8 short shots in 10 seconds, while this approved test requires one continuous 8-second shot to isolate audio/video synchronization. Keep the source template appended unchanged; this prefix states the test's single-shot requirement. If Flow follows the source montage guidance and produces multiple cuts, record that as a template conflict during QA rather than silently changing the source template.

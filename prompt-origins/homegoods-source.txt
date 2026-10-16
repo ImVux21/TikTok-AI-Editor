@@ -1,0 +1,441 @@
+Đồ gia dụng
+10-SECOND DAILY VLOG MODE
+When the requested video duration is 10 seconds, prioritize a fast-paced real-life daily-vlog montage rather than a traditional product commercial.
+The video should feel like:
+“Someone casually filmed this useful product during a normal moment at home.”
+NOT:
+“A 3D product animation with multiple camera angles.”
+CORE STYLE
+Use approximately 5–8 short shots within 10 seconds.
+Each shot should last roughly 0.7–2 seconds, depending on the action.
+The camera should continuously feel human-operated, as if the person filming is physically moving around the room and capturing different moments with a smartphone.
+The viewer should feel like they are watching fragments of a real daily routine.
+10-SECOND RHYTHM
+Use this general structure:
+0:00–0:01.2 — HOOK
+Start with an interesting detail, problem, action, or visually satisfying moment.
+0:01.2–0:02.4 — CONTEXT
+Quickly reveal the environment or situation.
+0:02.4–0:03.6 — PRODUCT
+Reveal the product from another angle.
+0:03.6–0:05.0 — ACTION
+Show the product performing its useful function.
+0:05.0–0:06.3 — DETAIL
+Cut to a close-up or macro detail.
+0:06.3–0:08.0 — RESULT
+Show the visible transformation or benefit.
+0:08.0–0:10.0 — PAYOFF
+Show the finished result with a natural handheld camera move.
+This is a flexible framework, not a mandatory sequence.
+Adapt the timing to the product.
+MULTI-ANGLE DAILY VLOG LANGUAGE
+Use frequent but motivated changes in:
+Camera distance
+Camera height
+Camera angle
+Direction
+Framing
+Shot size
+Camera position
+Possible sequence:
+Wide → Medium → Close-up → Macro → Side angle → Top-down → Wide/Medium reveal
+Do NOT make every shot look perfectly composed.
+Allow slight natural differences between shots.
+This should feel like a person quickly capturing interesting moments, not a professional camera rig following a programmed shot list.
+TRANSITIONS
+Prioritize natural physical transitions over digital effects.
+Good transitions:
+Camera moves past an object and cuts.
+Product fills the frame and cuts to detail.
+Quick handheld reframing.
+Movement in one shot continues into the next.
+Match movement between two shots.
+Cut on action.
+Object briefly covers the lens.
+Natural whip-pan caused by the person turning the phone.
+Camera approaches a surface and cuts to a close-up.
+Avoid:
+Flash transitions.
+Glitch transitions.
+3D transitions.
+Spin transitions.
+Artificial light streaks.
+Overly cinematic transitions.
+Random effects.
+The cuts should feel like real vlog editing.
+HUMAN-OPERATED CAMERA CONTINUITY
+Although the video contains no visible person, every shot should imply that the same invisible person is filming.
+For example:
+Shot 1:
+The camera is standing several steps away.
+Shot 2:
+The person has physically moved closer.
+Shot 3:
+The person has moved to the side.
+Shot 4:
+The person lowers the phone.
+Shot 5:
+The person brings the phone closer for a detail.
+Shot 6:
+The person steps back to show the result.
+This creates the feeling of a real continuous filming session.
+Do not make the camera teleport between positions.
+CAMERA IMPERFECTION
+Allow subtle realistic imperfections:
+Slight handheld shake.
+Tiny framing corrections.
+Small exposure adjustment.
+Slight autofocus change.
+Natural motion blur.
+Small variations in camera height.
+Slightly imperfect composition.
+These imperfections should be subtle.
+Do NOT make the footage shaky or amateurish.
+The goal is:
+REALISTIC SMARTPHONE FOOTAGE, NOT BAD CAMERA WORK.
+PRODUCT PRESERVATION
+Even with rapid cuts, the product must remain identical across every shot.
+Maintain:
+Same shape
+Same color
+Same material
+Same proportions
+Same details
+Same logo
+Same design
+No morphing between angles.
+EDITING FEEL
+The final 10 seconds should feel:
+Fast
+Casual
+Natural
+Addictive
+Visually varied
+Real-life
+Smartphone-shot
+Lifestyle-oriented
+Avoid the feeling of a traditional polished TV advertisement.
+Think:
+“A person casually filming a useful thing they use during their day.”
+rather than:
+“A company presenting a product.”
+IMPORTANT
+Do not increase the number of shots just for the sake of speed.
+Every cut must reveal something new:
+new angle, new detail, new action, new context, or new result.
+The viewer should feel that something new is happening every 1–2 seconds.
+Final priority:
+REAL DAILY VLOG FEEL > CINEMATIC COMMERCIAL FEEL
+MULTIPLE REAL CAMERA ANGLES > AUTOMATED CAMERA MOVEMENT
+FAST VISUAL STORYTELLING > LONG PRODUCT SHOTS
+NATURAL CUTS > SPECIAL EFFECT TRANSITIONS
+Đồ gia dụng lắc lắc
+HANDHELD PRODUCT REVIEW MODE
+When the requested video uses HANDHELD PRODUCT REVIEW MODE, create a realistic short-form product review where an invisible person uses their hand to hold and physically inspect the product, especially its outer shell, body, surface, material, construction, size, and finish.
+The video should feel like:
+“Someone is casually holding this product and showing me what the outside looks like.”
+NOT:
+“A cinematic product commercial with complicated camera movements.”
+
+1. SIMPLE REVIEW STYLE
+Use approximately 3–5 shots within 10 seconds.
+Keep the editing relatively simple.
+Do NOT use rapid 8–10 shot editing.
+Do NOT constantly change camera angles.
+Do NOT add unnecessary actions.
+The main appeal comes from:
+REAL HAND + REAL PRODUCT + REAL PHYSICAL MOVEMENT + CLEAR VISUAL INSPECTION
+
+2. HUMAN HAND MUST CAUSE EVERY PRODUCT MOVEMENT
+Whenever the product moves, the visible hand must clearly cause the movement.
+Examples:
+hand grips product → lifts it
+hand gently shakes product → product physically moves
+hand tilts product → product tilts
+hand rotates product → product rotates
+hand squeezes or touches surface → product responds naturally
+Never allow the product to move by itself.
+The viewer must clearly understand the physical cause and effect.
+
+3. OUTER-SHELL REVIEW ACTION
+The main action should be a natural hand-held inspection of the product exterior.
+Depending on the actual product, the hand may:
+gently lift it
+gently shake it
+tilt it left and right
+rotate it slightly
+turn it to show the side
+bring it slightly closer to the camera
+run fingers naturally over the exterior surface
+lightly tap the exterior when appropriate
+show the edges, seams, surface, or finish
+Use ONLY actions that make sense for the actual product.
+Do NOT invent claims.
+For example:
+Do not shake a product and automatically claim it is “super durable” unless that durability is actually supported.
+The video should visually show the product's construction rather than inventing specifications.
+
+4. NATURAL “LẮC LẮC” MOVEMENT
+The shaking motion should look like a real person casually checking the product.
+Use:
+small wrist movement
+gentle back-and-forth motion
+realistic hand grip
+natural inertia
+subtle product weight
+realistic movement of the wrist and fingers
+The shaking should NOT be:
+violent
+exaggerated
+perfectly repetitive
+robotic
+perfectly symmetrical
+mechanically timed
+The hand should naturally vary the movement slightly.
+Example:
+lift → gentle shake left/right → stop → tilt slightly → show exterior
+
+5. REAL HAND APPEARANCE
+The hand must look genuinely photographed by a smartphone.
+Preserve realistic:
+skin texture
+pores
+wrinkles
+knuckles
+fingernails
+finger proportions
+joints
+wrist anatomy
+natural grip pressure
+Avoid:
+extra fingers
+fused fingers
+malformed fingers
+plastic skin
+floating hands
+impossible joints
+distorted wrists
+unnatural finger positions
+The hand must physically contact the product correctly.
+
+6. REAL-LIFE BACKGROUND
+The background must look like a real physical location, not an AI-generated set.
+Use a believable everyday environment appropriate to the product:
+home
+kitchen
+bedroom
+desk
+living room
+student room
+bathroom
+dining area
+workspace
+Keep realistic:
+walls
+floor
+furniture
+everyday objects
+natural clutter
+small imperfections
+realistic materials
+natural shadows
+real reflections
+believable perspective
+The background should feel ordinary and lived-in.
+Avoid:
+luxury showroom
+commercial studio
+perfect minimalist room
+fake decorative set
+futuristic interior
+excessive decoration
+perfectly symmetrical composition
+CGI-looking environment
+
+7. BACKGROUND MUST NEVER CHANGE
+Keep the EXACT SAME physical environment throughout the entire video.
+Do NOT change:
+room
+wall
+floor
+furniture
+table
+shelf
+window
+surrounding objects
+object positions
+lighting
+shadows
+reflections
+The camera may move slightly, but the physical environment remains the same.
+
+8. CAMERA STYLE
+Use a realistic smartphone camera.
+The camera should remain relatively stable compared with the fast daily-vlog mode.
+Use:
+subtle handheld movement
+tiny natural framing adjustments
+realistic autofocus
+natural motion blur
+slight exposure adjustment
+realistic smartphone perspective
+Avoid:
+floating camera
+robotic movement
+drone movement
+perfect orbit
+complicated camera paths
+automatic tracking
+excessive camera movement
+cinematic commercial camera moves
+The main movement should come from the hand and product, not from the camera.
+
+9. RECOMMENDED 10-SECOND STRUCTURE
+0.0–2.0s — HOOK
+Start with the product already in the hand or with the hand naturally grabbing it.
+Immediately show the exterior.
+Possible:
+close-up of surface
+hand lifting product
+hand gently shaking product
+unusual exterior detail
+textured material
+The viewer should immediately understand:
+“This video is showing me what this product actually looks like in hand.”
+
+2.0–4.5s — EXTERIOR INSPECTION
+Keep the same general camera position.
+The hand gently moves the product:
+tilt → slight shake → turn slightly
+Show:
+front
+side
+outer shell
+surface
+finish
+Do not perform unrelated actions.
+
+4.5–6.5s — CLOSE DETAIL
+Use one simple cut to a closer view.
+Show an important exterior detail:
+texture
+seam
+edge
+handle
+surface finish
+button
+opening
+construction detail
+The hand remains naturally connected to the product.
+
+6.5–8.2s — SECOND ANGLE
+One more simple angle.
+The hand gently rotates or tilts the same product to reveal another side.
+No unnecessary movement.
+
+8.2–10.0s — FINAL IMPRESSION
+Show the product naturally held in frame.
+Use a subtle:
+slight shake → stop → hold steady
+or
+tilt → return to normal → hold
+End on the product's most visually convincing exterior detail.
+
+10. FEW-CUT RULE
+Keep editing simple.
+Target:
+3–5 shots / 10 seconds
+Do NOT increase the shot count just to create visual variety.
+The viewer should have time to actually inspect the product.
+Preferred rhythm:
+HOOK → INSPECT → DETAIL → SECOND ANGLE → FINAL HOLD
+
+11. NO UNNECESSARY ACTION
+Do NOT add:
+random opening and closing
+repeated shaking
+unnecessary rotation
+random tapping
+random button pressing
+placing product down and picking it up again
+unnecessary camera movement
+unrelated objects entering frame
+exaggerated hand gestures
+The product should be doing ONE clear thing:
+being naturally held and visually inspected.
+
+12. PRODUCT LOCK
+The product must remain exactly identical to the reference.
+Preserve:
+shape
+proportions
+dimensions
+color
+material
+texture
+exterior design
+logo
+text
+buttons
+handles
+seams
+edges
+all visible details
+No:
+redesign
+morphing
+replacement
+deformation
+changed proportions
+changed color
+changed material
+missing details
+added details
+duplicated product
+
+13. REALISTIC PHYSICS
+The product must have realistic:
+weight
+inertia
+friction
+grip
+contact
+rotation
+movement
+When the hand shakes the product, the product must respond with believable physical inertia.
+When the hand stops, the product should naturally stop.
+Nothing should float or move independently.
+
+14. RETENTION
+This mode uses fewer cuts, so retention must come from physical inspection and curiosity, not rapid editing.
+Create a simple visual progression:
+WHAT IS IT? → HOW DOES THE OUTSIDE LOOK? → WHAT DOES THE MATERIAL/SURFACE LOOK LIKE? → WHAT IS THE FINISH LIKE? → FINAL VIEW
+The viewer should continuously discover a new visual detail without requiring constant cuts.
+
+15. FINAL STYLE
+The final video should feel:
+casual
+realistic
+trustworthy
+simple
+smartphone-shot
+human-operated
+product-focused
+natural
+believable
+Think:
+“Someone picked up the product and casually showed me what it looks and feels like in real life.”
+NOT:
+“A brand produced a cinematic product advertisement.”
+ABSOLUTE FINAL RULES
+VISIBLE HAND CAUSES EVERY PRODUCT MOVEMENT.
+FEWER CUTS.
+NO UNNECESSARY ACTIONS.
+NO AUTOMATIC PRODUCT MOVEMENT.
+NO CAMERA FLYING AROUND THE PRODUCT.
+SAME PRODUCT THROUGHOUT.
+SAME REAL BACKGROUND THROUGHOUT.
+REALISTIC HUMAN HANDS.
+REALISTIC PRODUCT WEIGHT AND PHYSICS.
+REAL SMARTPHONE FOOTAGE.
+PHOTOREALISTIC EVERYDAY ENVIRONMENT.

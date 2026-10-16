@@ -1,0 +1,12 @@
+{
+  "product": "giá treo quần áo",
+  "source_script": "script.md",
+  "scenes": [
+    {
+      "id": "narration-full",
+      "sceneType": "whole-video-narration",
+      "onScreenHeadline": "Hai thanh treo • móc bên hông",
+      "voiceTextRaw": "[curious] Mấy dợ... một cái giá, hai thanh treo á?! [playful] Nhìn nè, thanh trên, thanh dưới... bên hông còn có móc nữa! [playful] Mấy ní nhớ chọn đúng phân loại trong giỏ nha. Dứt lẹ!"
+    }
+  ]
+}

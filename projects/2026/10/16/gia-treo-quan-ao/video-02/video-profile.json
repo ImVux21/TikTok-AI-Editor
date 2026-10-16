@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-16",
+  "product_slug": "gia-treo-quan-ao",
+  "video_id": "video-02",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 24
+  },
+  "product_listing_url": "https://shop.tiktok.com/vn/pdp/1732793679097070628",
+  "product_listing_status": "Public web fetch unavailable; exact variation matching image and current price/offer remain unverified.",
+  "source_references": {
+    "background": {
+      "path": "input/background-photo-1.jpg",
+      "sha256": "A299E90FD0D3106C93C19A4A838D9F3B9A5ACB712B048B7BDB1E9DEC0048AC9D"
+    },
+    "product": {
+      "path": "input/product-photo-2.jpg",
+      "sha256": "11759576C070814851DB007027F92E3F103525AA1ABD0C10106E76F3AC9E837C"
+    },
+    "legacy_composite_candidate": {
+      "path": "input/background-replaced-rack-legacy-candidate.png",
+      "sha256": "BEB2C31C50F1418D557075E80D428FA20F9AA483A00DB62AEFA0C49686DE1253",
+      "status": "reference only; not approved for this run or for Flow"
+    },
+    "background_instruction": "Replace the unrelated wall-mounted rack and shelves in the room with the photo-referenced freestanding rack; generated staging only, not a real installation or use testimonial."
+  },
+  "prompt_template": {
+    "name": "10-SECOND DAILY VLOG MODE",
+    "path": "workflow/assets/daily-vlog-mode.txt",
+    "sha256": "4F5AE6490436166A745F99F9ECC8E8BF6C387E3F018891BD98747109D5996A11",
+    "locked": true,
+    "selection_note": "Closest fit for an at-home product reveal; preserve source template unchanged. Storyboard and script override any incompatible implied use action, shot variations, dialogue or props; this run depicts only a product reveal, no unverified use demonstration."
+  },
+  "script": "scripts/script.md",
+  "research": "scripts/research.md",
+  "audio_policy": {
+    "provider": "ElevenLabs",
+    "model": "eleven_v3",
+    "requested_voice_id": "pNInz6obpgDQGcFmaJgB",
+    "voice_display_name": "Adam - Dominant, Firm",
+    "voice_id_status": "Verified in current ElevenLabs voice list as Adam - Dominant, Firm; metadata indicates American English, so Vietnamese pronunciation must be confirmed by full-track listening.",
+    "language": "vi",
+    "raw_text_includes_audio_tags": true,
+    "clean_captions_exclude_audio_tags": true,
+    "requested_speed": 1.2,
+    "speed_application": "Applied once with FFmpeg atempo=1.2 preserving pitch before import; CapCut narration imported at 1.0x. User listened to and approved full 1.2x track on 2026-10-16; encoded final uses this same track.",
+    "generation_status": "Completed; requested Adam V3 voice verified and used; 185 credits charged; original and 1.2x full tracks listened to and approved by user.",
+    "listening_qa": "User approved original full track and pitch-preserving 1.2x full track; final AAC stream is derived from approved 1.2x file."
+  },
+  "claim_limits": [
+    "Do not state exact dimensions, load capacity, price, offer, bundle contents or selected variation until verified against the correct listing variation.",
+    "Do not claim shoe storage, assembly ease, durability, adjustability, capacity or load testing.",
+    "No personal-use testimonial; the room/product replacement is generated staging.",
+    "Show only product geometry visible in the source photo."
+  ],
+  "downstream_status": {
+    "script": "locked; see scripts/script.md",
+    "storyboard": "3-scene plan ready; scenes 01 and 02 passed full image QA; scene 03 reuses exact scene-01 frame",
+    "flow_generation": "All 3 Flow clips generated and passed full source QA; see per-scene reports and project.json.",
+    "narration": "ElevenLabs Adam V3 complete; user approved original and 1.2x track; speed applied once before CapCut.",
+    "assembly": "Saved draft and final file exist, but scene excerpts repeat the same full-product composition; the current export is audit/reference only pending recut.",
+    "final_video_qa": "TECHNICAL PASS; CREATIVE FAIL; current export not approved due repeated scene composition. See qa/root-cause-review.md.",
+    "publishing": "Copy-ready caption and hashtags prepared in publishing/post-package.md; product variation and offer remain unverified."
+  }
+}

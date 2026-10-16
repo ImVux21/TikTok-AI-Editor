@@ -1,0 +1,159 @@
+{
+  "video_id": "video-01",
+  "product_slug": "gia-treo-quan-ao",
+  "date": "2026-10-15",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "duration_seconds": 10
+  },
+  "product_listing_url": "https://shop.tiktok.com/vn/pdp/1732793679097070628",
+  "product_listing_status": "Listing title/description supplied; selected exact variation matching product photo remains unverified.",
+  "source_references": {
+    "background": "input/background-photo-1.jpg",
+    "product": "input/product-photo-2.jpg",
+    "background_instruction": "Replace the different existing rack in the room photo with the product from product-photo-2; this is generated staging, not a real installation or testimonial."
+  },
+  "prompt_template": {
+    "name": "10-SECOND DAILY VLOG MODE",
+    "path": "workflow/assets/daily-vlog-mode.txt",
+    "sha256": "4F5AE6490436166A745F99F9ECC8E8BF6C387E3F018891BD98747109D5996A11",
+    "locked": true
+  },
+  "script": "scripts/script.md",
+  "research": "scripts/research.md",
+  "audio_policy": {
+    "provider": "Google Flow generated speech",
+    "requested_voice": "Adam",
+    "voice_selection_status": "No Adam selector found in inspected Flow UI; exact named preset unverified",
+    "language": "Vietnamese",
+    "full_audio_review": "User approved attempt 08 Flow preview; audio-only ASR matches intended script; independent ear review and exact Adam preset remain unverified. See project.json and qa/final-export-v2-review.md.",
+    "elevenlabs": "not authorized unless directly requested for this video"
+  },
+  "claim_limits": [
+    "No exact dimensions, load capacity, price, offer, or bundle contents until exact variation is verified.",
+    "Do not show or claim shoe storage, assembly ease, durability, adjustability, or load testing without matching-variation evidence.",
+    "No personal use testimonial; the room/product replacement is generated staging."
+  ],
+  "downstream_status": {
+    "flow_generation": {
+      "status": "Completed: attempt 08 downloaded and fully reviewed; approved ranges used in final v2; see project.json for canonical attempts and export state.",
+      "flow_project_id": "0ce18ce1-20cf-4d75-9e07-c1ab4987f615",
+      "model": "Omni 1.1 Flash",
+      "mode": "Video · Frames",
+      "aspect_ratio": "9:16",
+      "resolution": "720p",
+      "duration_seconds": 10,
+      "count": 1,
+      "attempts": [
+        {
+          "generation_id": null,
+          "attempt": 1,
+          "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+          "reference_assets": null,
+          "visual_qa": "reject; no hand defect observed; continuous playback/audio and speech/voice still unverified",
+          "submitted_at": null,
+          "downloaded_at": "2026-10-15 10:15:25 Asia/Saigon",
+          "scene": "scene-01",
+          "displayed_credit_cost": 15,
+          "downloaded_file": "output/scene-01-flow-attempt-01.mp4"
+        },
+        {
+          "generation_id": null,
+          "attempt": 2,
+          "flow_editor_id": null,
+          "reference_assets": [
+            "input/background-photo-1.jpg",
+            "input/product-photo-2.jpg"
+          ],
+          "visual_qa": null,
+          "submitted_at": null,
+          "downloaded_at": null,
+          "scene": "scene-01",
+          "displayed_credit_cost": 15,
+          "downloaded_file": null
+        },
+        {
+          "generation_id": null,
+          "attempt": 3,
+          "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+          "reference_assets": [
+            "input/background-replaced-rack.png",
+            "input/product-photo-2.jpg"
+          ],
+          "visual_qa": "reject; main wide room match and rack identity pass; continuity/garment count/ending fail; audio and exact Adam preset unverified",
+          "submitted_at": "2026-10-15 10:39:10 Asia/Saigon",
+          "downloaded_at": "2026-10-15 10:41:50 Asia/Saigon",
+          "scene": "scene-01",
+          "displayed_credit_cost": 15,
+          "downloaded_file": "output/scene-01-flow-attempt-03.mp4"
+        },
+        {
+          "generation_id": null,
+          "attempt": 4,
+          "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+          "reference_assets": [
+            "input/background-replaced-rack.png",
+            "input/product-photo-2.jpg"
+          ],
+          "visual_qa": "reject; plant excluded, room/rack generally preserved, but garment count and full-rack ending fail; audio/dialogue/Adam selection remain unverified",
+          "submitted_at": "2026-10-15 10:51:34 Asia/Saigon",
+          "downloaded_at": "2026-10-15 10:57:51 Asia/Saigon",
+          "scene": "scene-01",
+          "displayed_credit_cost": null,
+          "downloaded_file": "output/scene-01-flow-attempt-04.mp4"
+        },
+        {
+          "generation_id": null,
+          "attempt": 5,
+          "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+          "reference_assets": [
+            "input/background-replaced-rack.png",
+            "input/product-photo-2.jpg"
+          ],
+          "visual_qa": "reject; empty rack, full-rack framing, ending and rack identity pass; supplied two-tone wall boundary missing; audio/dialogue/Adam selection unverified",
+          "submitted_at": "2026-10-15 11:04:01 Asia/Saigon",
+          "downloaded_at": "2026-10-15 11:05:58 Asia/Saigon",
+          "scene": "scene-01",
+          "displayed_credit_cost": null,
+          "downloaded_file": "output/scene-01-flow-attempt-05.mp4"
+        },
+        {
+          "generation_id": null,
+          "attempt": 6,
+          "flow_editor_id": "24d77903-dbe3-4137-b370-01eb04dc6eea",
+          "reference_assets": [
+            "input/background-replaced-rack.png (start frame)",
+            "input/background-replaced-rack.png (end frame)"
+          ],
+          "visual_qa": "PASS, all 240/240 frames; report qa/source-clip-attempt06-review.md",
+          "submitted_at": "2026-10-15 approximately 11:15:20 Asia/Saigon",
+          "downloaded_at": "2026-10-15 11:17:47 Asia/Saigon",
+          "scene": "scene-01",
+          "displayed_credit_cost": 15,
+          "downloaded_file": "output/scene-01-flow-attempt-06.mp4"
+        },
+        {
+          "attempt": 7,
+          "generation_id": null,
+          "flow_editor_id": null,
+          "reference_assets": [
+            "input/background-replaced-rack.png (start frame)",
+            "input/background-replaced-rack.png (end frame)"
+          ],
+          "visual_qa": "pending full local-frame review; Flow preview rendered 10 seconds",
+          "submitted_at": "2026-10-15 11:32:35 Asia/Saigon",
+          "downloaded_at": null,
+          "scene": "scene-01",
+          "displayed_credit_cost": 15,
+          "downloaded_file": null,
+          "flow_project_id": "0ce18ce1-20cf-4d75-9e07-c1ab4987f615",
+          "flow_scene_id": "4e9a9f78-e3bd-4ce2-ade5-09ca46945be2"
+        }
+      ]
+    },
+    "voice_qa": "User approved attempt 08 Flow preview; audio-only CapCut ASR matches intended Vietnamese prompt; independent ear review and exact Adam preset remain unverified.",
+    "visual_qa": "Final v2 passed full 240/240-frame QA; report qa/final-export-v2-review.md.",
+    "editing": "Completed: output/final_video-v2.mp4 passed final visual QA; publishing status and provenance are in project.json."
+  }
+}

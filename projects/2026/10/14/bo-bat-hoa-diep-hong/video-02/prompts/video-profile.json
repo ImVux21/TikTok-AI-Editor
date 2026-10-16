@@ -1,0 +1,48 @@
+{
+  "product": "Bộ bát hoa Diệp Hồng gốm sứ",
+  "category": "Home & Kitchen / Đồ gia dụng",
+  "video_id": "video-02",
+  "date": "2026-10-14",
+  "run_type": "edit-only rebuild from existing QA-approved moving clips",
+  "template_name": "HANDHELD PRODUCT REVIEW MODE",
+  "template_path": "../../../../../../../workflow/assets/handheld-product-review.txt",
+  "template_sha256": "b379c9c7d90a0cdf815bbde6ef53c9a30f07de6bcfaf45de2865054dfe95a9d8",
+  "template_policy": "locked unchanged; no new Flow prompts or clips for this run",
+  "product_reference": "../../video-01/input/product-reference.jpg",
+  "script": "../scripts/kich-ban-video-02.md",
+  "research_note": "../scripts/ghi-chu-nghien-cuu.md",
+  "source_assets": {
+    "voiceover": "../../video-01/assets/voiceover.mp3",
+    "transcript": "../../video-01/assets/voiceover-transcript.srt",
+    "approved_clips": [
+      "../../video-01/input/variants/canh-01-bat-com-thay-the.mp4",
+      "../../video-01/input/variants/canh-03-dia-su.mp4",
+      "../../video-01/input/variants/canh-04-thia-su.mp4"
+    ]
+  },
+  "timeline": {
+    "duration_seconds": 15.31,
+    "segments": [
+      { "file": "../../video-01/input/variants/canh-01-bat-com-thay-the.mp4", "source_start": 0, "duration": 4.9 },
+      { "file": "../../video-01/input/variants/canh-03-dia-su.mp4", "source_start": 0, "duration": 4.375 },
+      { "file": "../../video-01/input/variants/canh-04-thia-su.mp4", "source_start": 0, "duration": 6.035 }
+    ],
+    "voiceover_edit": {
+      "source": "../../video-01/assets/voiceover.mp3",
+      "keep_source_ranges_seconds": [[0, 4.9], [9.8, 13.5], [14.25, 20.96]],
+      "removed_source_ranges_seconds": [[4.9, 9.8], [13.5, 14.25]],
+      "crossfade": "very short audio crossfade at the splice between 13.5s and 14.25s source ranges",
+      "result_duration_seconds": 15.31,
+      "new_voiceover": false
+    },
+    "transitions": "clean cuts at action/phrase boundaries; no decorative dissolve/wipe",
+    "stills_or_freeze_frames": false
+  },
+  "product_fact_guardrails": {
+    "scene_02": "all candidate variants rejected by exhaustive visual QA; do not use or replace with still/freeze frame",
+    "listing_total_conflict": "title says 30; description says 31; item list sums to 30",
+    "total_count_may_be_used": false,
+    "approved_count_fact": "seller listing says 10 white porcelain spoons and 1 soup ladle",
+    "open_question": "Ask seller to reconcile listing and identify the alleged 31st item."
+  }
+}

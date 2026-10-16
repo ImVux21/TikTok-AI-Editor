@@ -1,0 +1,36 @@
+{
+  "model": "eleven_v3",
+  "voice_id": "pNInz6obpgDQGcFmaJgB",
+  "voice_name": "Adam - Dominant,Firm",
+  "voice_access_verified": true,
+  "audio_generated": true,
+  "target_speed": 1.2,
+  "speed_user_confirmed": true,
+  "source_generation_speed": null,
+  "source_generation_speed_status": "not_explicitly_configured_by_model_schema",
+  "speed_application_stage": "capcut_audio",
+  "speed_application_status": "pending_original_audio_download",
+  "postprocess": {
+    "playback_rate": 1.2,
+    "preserve_pitch": true,
+    "apply_once": true,
+    "status": "planned_not_applied"
+  },
+  "audio_listening_status": "completed_generation_not_downloaded_or_listened",
+  "caption_timing_status": "pending_final_audio_alignment",
+  "scenes": [
+    {
+      "id": "narration-full",
+      "sourceField": "voiceTextRaw",
+      "voiceTextRaw": "[curious] Mấy dợ... một cái giá, hai thanh treo á?! [playful] Nhìn nè, thanh trên, thanh dưới... bên hông còn có móc nữa! [playful] Mấy ní nhớ chọn đúng phân loại trong giỏ nha. Dứt lẹ!",
+      "cleanSubtitleText": "Mấy dợ... một cái giá, hai thanh treo á?! Nhìn nè, thanh trên, thanh dưới... bên hông còn có móc nữa! Mấy ní nhớ chọn đúng phân loại trong giỏ nha. Dứt lẹ!",
+      "ttsText": "[curious] Mấy dợ... một cái giá, hai thanh treo á?! [playful] Nhìn nè, thanh trên, thanh dưới... bên hông còn có móc nữa! [playful] Mấy ní nhớ chọn đúng phân loại trong giỏ nha. Dứt lẹ!"
+    }
+  ],
+  "fullNarration": "[curious] Mấy dợ... một cái giá, hai thanh treo á?! [playful] Nhìn nè, thanh trên, thanh dưới... bên hông còn có móc nữa! [playful] Mấy ní nhớ chọn đúng phân loại trong giỏ nha. Dứt lẹ!",
+  "generation_id": "JIUgs1jAWPkTbCFruG3A",
+  "generation_session_id": "6OW0nZe8uyMHQnX4VLTV",
+  "generation_flow_id": "qJraMWzmIUrVhtt4syCd",
+  "generation_duration_seconds": 11.04,
+  "generation_credits": 185
+}

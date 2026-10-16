@@ -1,0 +1,108 @@
+{
+  "project_name": "Bộ bát hoa Diệp Hồng — video 02",
+  "version": 1,
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 720,
+    "height": 1280,
+    "fps": 24
+  },
+  "active_run": "bo-bat-hoa-diep-hong-video-02",
+  "video_id": "video-02",
+  "date": "2026-10-14",
+  "input": [
+    "input/clip_01.mp4",
+    "input/clip_03.mp4",
+    "input/clip_04.mp4"
+  ],
+  "assets": {
+    "voiceover": "assets/voiceover-cut.wav",
+    "music": null,
+    "product_reference": "input/product-reference.jpg",
+    "background_reference": "input/background-reference.jpg",
+    "shop_branding": "assets/shop-branding.png"
+  },
+  "branding": {
+    "source_image": "assets/shop-branding.png",
+    "shape": "circle",
+    "diameter_px": 116,
+    "x": 557,
+    "y": 1114,
+    "mask_inset_px": 2,
+    "purpose": "Cover the measured Gemini/Flow star symbol and reduce the surrounding shadow while preserving product and interface clearance"
+  },
+  "output": {
+    "video": "output/video-02-rebuild.mp4",
+    "subtitles_srt": "output/subtitles_dynamic.srt",
+    "captions_ass": "output/dynamic-captions.ass"
+  },
+  "timeline": {
+    "segments": [
+      {
+        "file": "input/clip_01.mp4",
+        "source_start": 0,
+        "duration": 6.91
+      },
+      {
+        "file": "input/clip_03.mp4",
+        "source_start": 0,
+        "duration": 2.16
+      },
+      {
+        "file": "input/clip_04.mp4",
+        "source_start": 0,
+        "source_duration": 4.375,
+        "duration": 4.55,
+        "playback_rate": 0.9615384615
+      }
+    ],
+    "voiceover_duration": 13.62,
+    "voiceover_source": "assets/voiceover.mp3",
+    "voiceover_keep_source_ranges_seconds": [
+      [
+        0,
+        5.98
+      ],
+      [
+        11.35,
+        13.5
+      ],
+      [
+        14.25,
+        15.23
+      ],
+      [
+        16.15,
+        20.7
+      ]
+    ],
+    "voiceover_crossfade_seconds": 0.02,
+    "voiceover_crossfade_boundaries_seconds": [
+      [
+        13.5,
+        14.25
+      ],
+      [
+        15.23,
+        16.15
+      ]
+    ],
+    "transition_policy": "Purposeful clean cuts at action/phrase boundaries; no decorative transition"
+  },
+  "product_notes": [
+    "Use exact ElevenLabs Chi voice asset. No Flow speech or CapCut TTS.",
+    "Listing conflict: title says 30 pieces, description says 31, and the provided item list totals 30. Do not state a total until seller reconciles it.",
+    "The project photo references contain TikTok UI; they are reference-only and no interface elements may appear in the video."
+  ],
+  "research": "scripts/ghi-chu-nghien-cuu.md",
+  "script": "scripts/kich-ban-video-02.md",
+  "publishing": {
+    "post_package": "publishing/post-package.md"
+  },
+  "qa": {
+    "source_clips": "qa/source-clip-review.md",
+    "final_export": "qa/final-export-review.md",
+    "editor": "qa/editor-review.md"
+  }
+}

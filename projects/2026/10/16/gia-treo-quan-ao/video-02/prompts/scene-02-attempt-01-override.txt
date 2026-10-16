@@ -1,0 +1,6 @@
+SCENE-SPECIFIC PRECEDENCE — apply these approved constraints when any earlier source-template instruction conflicts:
+1. `storyboard/scene-02-v01.png` v01 (SHA-256 `9A417214D832E0B879EB9A99B2FE7AD1F2FAA69D2FCFE0AD33341919D900CCB7`) is the exact approved composite start frame and visual source of truth. There is no end frame. Preserve all product and room geometry; do not invent unseen details.
+2. The locked script controls the segment's purpose: reveal the visible upper rail, lower rail and side hook. This is not a use or performance demonstration. Do not add product action or claims.
+3. Keep the full rack entirely visible, including all top hooks/rails, uprights, feet and lower connectors. Use at most a subtle crop-safe horizontal drift. No zoom, tilt, orbit, crop, vertical reframe, cut, altered perspective, or independent background motion. Because this image is only modestly closer than scene-01, do not claim greater visual variety than it provides.
+4. Flow must generate no speech, dialogue, lyrics, vocalization, speaker, or visible speaking person. Optional nonverbal ambience only; narration and tags are separate V3 material, never Flow input.
+5. Preserve the locked template byte-for-byte, applying only compatible casual pacing and subtle handheld feel. Ignore conflicting angle changes, action/use demo, props, dialogue and scene alterations.

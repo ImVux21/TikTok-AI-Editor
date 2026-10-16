@@ -1,0 +1,14 @@
+{
+  "source": "C:\\Users\\vuodo\\software\\TikTok-AI-Editor\\projects\\2026\\10\\16\\gia-treo-quan-ao\\video-02\\audio\\adam-v3-original.mp3",
+  "source_sha256": "29b1a72d301cf3ce0a84fc7d51e64ee96e578584b02699830898ec82d68e9875",
+  "output": "C:\\Users\\vuodo\\software\\TikTok-AI-Editor\\projects\\2026\\10\\16\\gia-treo-quan-ao\\video-02\\audio\\adam-v3-1p2.m4a",
+  "output_sha256": "bcd64c75fb7c3d37ceeb7b44bba97ea4c52c2c838301ee29a283abc91a77afd0",
+  "source_duration_seconds": 11.04,
+  "output_duration_seconds": 9.210998,
+  "target_speed": 1.2,
+  "applied_speed": 1.2,
+  "method": "ffmpeg_atempo_pitch_preserving",
+  "capcut_import_speed": 1.0,
+  "listening_qa": "pending",
+  "caption_alignment": "pending_on_this_output"
+}

@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-16",
+  "product_slug": "gia-treo-quan-ao",
+  "video_id": "video-02",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 24
+  },
+  "input": [
+    "input/background-photo-1.jpg",
+    "input/product-photo-2.jpg"
+  ],
+  "storyboard": {
+    "status": "partial_pass",
+    "frames": [
+      {
+        "scene": "scene-01",
+        "file": "storyboard/scene-01-v01-raw.png",
+        "sha256": "FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65",
+        "status": "PASS master reveal only",
+        "version": "v01",
+        "qa_report": "qa/storyboard-review.md"
+      },
+      {
+        "scene": "scene-02",
+        "file": "storyboard/scene-02-v01.png",
+        "sha256": "9A417214D832E0B879EB9A99B2FE7AD1F2FAA69D2FCFE0AD33341919D900CCB7",
+        "status": "PASS closer reveal; limited variety",
+        "version": "v01",
+        "qa_report": "qa/storyboard-review.md"
+      },
+      {
+        "version": "v01",
+        "status": "reuse scene-01 image for CTA; same exact approved frame",
+        "scene": "scene-03",
+        "sha256": "FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65",
+        "file": "storyboard/scene-01-v01-raw.png"
+      }
+    ]
+  },
+  "flow_generation": {
+    "mode": "Video · Frames",
+    "displayed_credit_cost": 12,
+    "aspect_ratio": "9:16",
+    "model": "Omni 1.1 Flash",
+    "count": 1,
+    "duration_seconds": 8,
+    "resolution": "720p",
+    "attempts": [
+      {
+        "attempt": 1,
+        "prompt_file": "prompts/scene-01-attempt-01-flow-prompt.txt",
+        "start_frame_sha256": "FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65",
+        "notes": "Exact locked prompt pasted by user and visually verified; submitted in @Browser with scene-01 approved start frame, Video Frames 9:16 Omni 1.1 Flash 720p 8s x1, displayed 12 credits.",
+        "end_frame": null,
+        "prompt_sha256": "bc81f624c79b2bf4f93db97805288a8e0e791c07cc79e53208b196cf2cae30c7",
+        "downloaded_file": "input/scene-01-attempt-01.mp4",
+        "status": "PASS source QA",
+        "start_frame": "storyboard/scene-01-v01-raw.png",
+        "scene": "scene-01",
+        "qa_report": "qa/scene-01-attempt-01-review.md",
+        "generation_id": "2b1c92d9-2e37-4ae9-9267-7a7f12d86a74",
+        "downloaded_sha256": "68BFDCBC86221403D6F8FD3DB7A6E50F166B446445C31C454740DDEE53E7A96E"
+      },
+      {
+        "attempt": 1,
+        "scene": "scene-02",
+        "prompt_file": "prompts/scene-02-attempt-01-flow-prompt.txt",
+        "start_frame": "storyboard/scene-02-v01.png",
+        "generation_id": "c2081ca3-dae7-40ee-a929-e0bc5055e28b",
+        "downloaded_file": "input/scene-02-attempt-01.mp4",
+        "downloaded_sha256": "D3CD8344CFBEA4137ECC8F18224A46B6AB7646607A4D31B805B3C895C5031B02",
+        "status": "PASS source QA",
+        "qa_report": "qa/scene-02-attempt-01-review.md",
+        "notes": "Omni 1.1 Flash, Frames, 9:16, 720p, 8s, x1; displayed 12 credits; browser download 81.7s"
+      },
+      {
+        "attempt": 1,
+        "scene": "scene-03",
+        "prompt_file": "prompts/scene-03-attempt-01-flow-prompt.txt",
+        "start_frame": "storyboard/scene-01-v01-raw.png",
+        "generation_id": "319441e5-18d8-4b3c-9b51-4d75178a5536",
+        "downloaded_file": "input/scene-03-attempt-01.mp4",
+        "downloaded_sha256": "92A09B7333986AA52FDC4766816CCBF0590C62BA595AC472037E3C151EEE4C60",
+        "status": "PASS source QA",
+        "qa_report": "qa/scene-03-attempt-01-review.md",
+        "notes": "Omni 1.1 Flash, Frames, 9:16, 720p, 8s x1; full 192-frame review and complete playback. Source contains non-silent interval; muted in assembly."
+      }
+    ],
+    "flow_project_id": "c12da47c-cf36-4ba1-8805-d053c0e7b662",
+    "flow_project_url": "https://flow.google.com/project/c12da47c-cf36-4ba1-8805-d053c0e7b662",
+    "prepared_prompts": [
+      {
+        "start_frame": "storyboard/scene-01-v01-raw.png",
+        "start_frame_sha256": "FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65",
+        "sha256": "bc81f624c79b2bf4f93db97805288a8e0e791c07cc79e53208b196cf2cae30c7",
+        "file": "prompts/scene-01-attempt-01-flow-prompt.txt",
+        "scene": "scene-01"
+      },
+      {
+        "start_frame": "storyboard/scene-02-v01.png",
+        "start_frame_sha256": "9A417214D832E0B879EB9A99B2FE7AD1F2FAA69D2FCFE0AD33341919D900CCB7",
+        "sha256": "73f7fb6dddfc237d7db9ec110bc84a4da22ec3694be83e5c2106acfec0947952",
+        "file": "prompts/scene-02-attempt-01-flow-prompt.txt",
+        "scene": "scene-02"
+      },
+      {
+        "start_frame": "storyboard/scene-01-v01-raw.png",
+        "start_frame_sha256": "FC4FE0CFB202DDC5F393643F80728C516CAE74CE47719A14DD2386EBBBC41A65",
+        "sha256": "5e7493704c937c500b2c4f3d729a1fb0f3ffac753f3b567fdaffc16cc81b6267",
+        "file": "prompts/scene-03-attempt-01-flow-prompt.txt",
+        "scene": "scene-03"
+      }
+    ],
+    "scene_02_start_frame_state": "Uploaded and attached in Flow; exact prompt submitted; clip downloaded and passed full QA.",
+    "scene_03_start_frame_state": "Approved scene-01 frame attached; exact prompt submitted; clip downloaded and passed full QA."
+  },
+  "audio": {
+    "provider": "ElevenLabs",
+    "model": "eleven_v3",
+    "voice_id": "pNInz6obpgDQGcFmaJgB",
+    "speed_requested": 1.2,
+    "speed_applied": 1.2,
+    "speed_method": "ffmpeg atempo pitch-preserving; import to CapCut at 1.0x",
+    "generation_id": "JIUgs1jAWPkTbCFruG3A",
+    "estimated_cost": {
+      "currency": "usd",
+      "estimate_only": true,
+      "estimated_runtime_seconds": 3,
+      "price_cents": 1.85,
+      "generations_count": 1,
+      "credits": 185
+    },
+    "audio_file": "audio/adam-v3-1p2.m4a",
+    "sha256": "BCD64C75FB7C3D37CEEB7B44BBA97EA4C52C2C838301EE29A283ABC91A77AFD0",
+    "full_track_listen_qa": "user approved original and final 1.2x full-track listening on 2026-10-16",
+    "generation_session_id": "6OW0nZe8uyMHQnX4VLTV",
+    "flow_id": "qJraMWzmIUrVhtt4syCd",
+    "actual_credits_charged": 185,
+    "generation_status": "completed and downloaded; 185 credits charged",
+    "original_file": "audio/adam-v3-original.mp3",
+    "original_sha256": "29B1A72D301CF3CE0A84FC7D51E64EE96E578584B02699830898EC82D68E9875",
+    "caption_timing_file": "scripts/captions-timed.json",
+    "transcription_generation_id": "SxoDx1WYfujVI7VIsrlq"
+  },
+  "editing": {
+    "status": "needs_recut_creative_review",
+    "capcut_draft": {
+      "status": "saved_to_cloud",
+      "session_id": "69391ef4-4f33-4064-a1f9-b3e259c9e56c",
+      "server_package_id": "7697175475549897217",
+      "editor_id": "e6a254ac-848e-4d80-b191-b9bdb4b7af59",
+      "editor_link_status": "CapCut returned Invalid link when opened; cloud save was confirmed and snapshot re-read successfully.",
+      "local_timeline": "editing/final-assembly.json"
+    },
+    "export": {
+      "file": "exports/video-02-final.mp4",
+      "sha256": "9363182FA7AF53B37138C7794F0A18372971F79909227AA4F91C20088F52FEAE",
+      "duration_seconds": 9.211,
+      "resolution": "1080x1920",
+      "fps": 24,
+      "video_codec": "H.264",
+      "audio_codec": "AAC mono 44.1 kHz",
+      "render_method": "FFmpeg rendered the same approved timeline after CapCut cloud draft save; CapCut editor link was invalid.",
+      "qa_status": "TECHNICAL PASS; CREATIVE FAIL; NOT APPROVED",
+      "qa_report": "qa/final-export-review.md",
+      "root_cause_report": "qa/root-cause-review.md"
+    }
+  },
+  "attempt_log": [
+    {
+      "started_at": "2026-10-16 13:36:53 +07:00",
+      "result": "generated; QA PASS; no image retries",
+      "phase": "storyboard_scene_01",
+      "ended_at": "2026-10-16 13:38:00 +07:00"
+    },
+    {
+      "started_at": "2026-10-16 13:39:49 +07:00",
+      "result": "generated; QA PASS; limited visual variety; no image retries",
+      "phase": "storyboard_scene_02",
+      "ended_at": "2026-10-16 13:40:40 +07:00"
+    },
+    {
+      "started_at": "2026-10-16 13:42:00 +07:00",
+      "result": "new project and prompt ready; upload blocked before generation; no credits spent",
+      "phase": "flow_project_preflight",
+      "ended_at": "2026-10-16 13:47:54 +07:00"
+    },
+    {
+      "started_at": "2026-10-16 14:49:29 +07:00",
+      "phase": "scene-03 download, visual QA, CapCut draft, export and final QA",
+      "ended_at": "2026-10-16 15:21:52 +07:00",
+      "result": "Scene-03 full QA PASS; cloud draft saved; final MP4 rendered and QA PASS. Actual elapsed production time 32m23s.",
+      "notes": "Scene-03 Flow edit 319441e5-18d8-4b3c-9b51-4d75178a5536; local final export atempo track already user-approved. CapCut editor URL returned Invalid link."
+    }
+  ],
+  "timing": {
+    "run_started_at": "2026-10-16 13:33:25 Asia/Saigon",
+    "phases": [
+      {
+        "phase": "source inspection and preflight",
+        "started_at": "2026-10-16 13:33:25 Asia/Saigon",
+        "ended_at": "2026-10-16 13:36:00 Asia/Saigon",
+        "notes": "Copied existing product refs into separate run; product geometry risks sent by QA agent; listing page unavailable in public fetch."
+      },
+      {
+        "started_at": "2026-10-16 13:33:25 +07:00",
+        "notes": "Reused current Vietnam official sources cited in prior-day research; no claim of fresh trend data.",
+        "phase": "research and script",
+        "ended_at": "2026-10-16 13:35:34 +07:00"
+      },
+      {
+        "started_at": "2026-10-16 13:36:53 +07:00",
+        "notes": "Two separate full-frame images generated and individually reviewed; scene-03 reuses scene-01 master.",
+        "phase": "storyboard and QA",
+        "ended_at": "2026-10-16 13:40:40 +07:00"
+      },
+      {
+        "started_at": "2026-10-16 13:42:00 +07:00",
+        "notes": "New Flow project configured; no visual upload or generation; voice tool returned estimate only.",
+        "phase": "Flow and voice preflight",
+        "ended_at": "2026-10-16 13:47:54 +07:00"
+      }
+    ]
+  },
+  "blockers": [
+    "Revise three scenes for meaningful visual distinction, intentionally set full runtime, then re-edit and repeat creative final QA. Current export is audit/reference only."
+  ]
+}

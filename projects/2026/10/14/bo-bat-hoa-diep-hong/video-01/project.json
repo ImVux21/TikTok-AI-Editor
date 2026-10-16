@@ -1,0 +1,82 @@
+{
+  "project_name": "TikTok-AI-Editor",
+  "version": 1,
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 720,
+    "height": 1280,
+    "fps": 24
+  },
+  "active_run": "bo-bat-hoa-diep-hong",
+  "input": [
+    "input/clip_01.mp4",
+    "input/clip_02.mp4",
+    "input/clip_03.mp4",
+    "input/clip_04.mp4"
+  ],
+  "assets": {
+    "voiceover": "assets/voiceover.mp3",
+    "music": null,
+    "product_reference": "input/product-reference.jpg",
+    "background_reference": "input/background-reference.jpg",
+    "shop_branding": "assets/shop-branding.png"
+  },
+  "branding": {
+    "source_image": "assets/shop-branding.png",
+    "shape": "circle",
+    "diameter_px": 92,
+    "x": 554,
+    "y": 1112,
+    "mask_inset_px": 2,
+    "purpose": "Cover the measured Gemini/Flow symbol with the supplied shop image"
+  },
+  "output": {
+    "video": "output/final_video_sub_chay.mp4",
+    "subtitles_srt": "output/subtitles_dynamic.srt",
+    "captions_ass": "output/dynamic-captions.ass"
+  },
+  "timeline": {
+    "segments": [
+      {
+        "file": "input/clip_01.mp4",
+        "source_start": 4.9,
+        "duration": 4.9
+      },
+      {
+        "file": "input/clip_02.mp4",
+        "source_start": 0,
+        "duration": 4.9
+      },
+      {
+        "file": "input/clip_03.mp4",
+        "source_start": 0,
+        "duration": 5.5
+      },
+      {
+        "file": "input/clip_04.mp4",
+        "source_start": 0,
+        "duration": 5.66
+      }
+    ],
+    "voiceover_duration": 20.96,
+    "transition_policy": "Use purposeful action/match cuts and sound bridges; do not add transitions decoratively."
+  },
+  "product_notes": [
+    "Listing conflict: title says 30 pieces, description says 31; provided item list totals 30. Confirm before stating a total."
+  ],
+  "research": "../../../../../../workflow/TREND-LED-AFFILIATE-PLAYBOOK.md",
+  "date": "2026-10-14",
+  "product_slug": "bo-bat-hoa-diep-hong",
+  "video_id": "video-01",
+  "captioning": {
+    "source_video": "output/final_video_logo.mp4",
+    "transcript_source": "assets/voiceover-transcript.srt",
+    "timing_method": "Manual phrase alignment from approved transcript and local audio pauses",
+    "style": "Short animated phrase captions with selected yellow keywords",
+    "static_title_removal": "FFmpeg delogo x=190 y=65 w=340 h=85"
+  },
+  "publishing": {
+    "post_package": "publishing/post-package.md"
+  }
+}

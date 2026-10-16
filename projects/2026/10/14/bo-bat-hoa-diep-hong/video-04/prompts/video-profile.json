@@ -1,0 +1,28 @@
+{
+  "video_id": "video-04",
+  "title": "Bộ bát hoa Diệp Hồng — thử đồng bộ audio Flow — video 04",
+  "template_name": "DAILY VLOG",
+  "template_path": "workflow/assets/daily-vlog-mode.txt",
+  "template_sha256": "4F5AE6490436166A745F99F9ECC8E8BF6C387E3F018891BD98747109D5996A11",
+  "model": "pending live Google Flow UI verification by coordinator",
+  "flow_mode": "pending live Google Flow UI verification by coordinator",
+  "aspect_ratio": "9:16",
+  "resolution": "pending live Google Flow UI verification by coordinator",
+  "scene_duration_seconds": 8,
+  "source_references": {
+    "first_frame": "../video-03/input/table-after-ai.png",
+    "last_frame": "../video-03/input/table-after-ai.png",
+    "product_identity_qa_only": "../video-03/input/product-reference-ui-source.jpg",
+    "user_table_context_qa_only": "../video-03/input/user-table-product-reference.png"
+  },
+  "audio_policy": {
+    "provider": "Google Flow generated audio",
+    "language": "Vietnamese",
+    "dialogue": "Mâm cơm nhà, chọn chén đĩa cùng tông nhìn sẽ hài hòa hơn.",
+    "delivery_style": "low, clear, natural male storyteller voice; requested Adam style",
+    "voice_selection_status": "Adam preset unverified; coordinator reports no visible selector so far; recheck live Flow UI before generation",
+    "visible_speaker": false,
+    "source_template_audio_override": "User explicitly requests Flow-generated Vietnamese voiceover dialogue for this test. Preserve DAILY VLOG source template unchanged and follow this scene prefix's audio instruction. Do not use another speech provider."
+  },
+  "template_path_note": "DAILY VLOG source remains byte-for-byte unchanged. The composer script resolves its project root to C:\\Users instead of the repository root; composition used an ephemeral profile with the equivalent C:\\Users-relative template path, while this canonical profile retains workflow/assets/daily-vlog-mode.txt."
+}

@@ -1,0 +1,465 @@
+{
+  "version": "0.1.0",
+  "segments": [
+    {
+      "attributes": {
+        "height": 1280,
+        "width": 720
+      },
+      "id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "type": "DRAFT"
+    },
+    {
+      "id": "audio:3a3c6f2f2b5f4f2aa81773f9b5c0ba4b",
+      "type": "AUDIO",
+      "attributes": {
+        "source": "vid://v10b9eg5000cdb8tjcfog65u9t50knr0",
+        "meta_type": "SOUND",
+        "start.ms": 0,
+        "volume": 1,
+        "duration.ms": 9212
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "layer": 0
+      },
+      "timeline": {
+        "duration.ms": 9212,
+        "start.ms": 0
+      }
+    },
+    {
+      "id": "text:0acc599c87894f47b131b2416dce2141",
+      "type": "TEXT",
+      "attributes": {
+        "content": "Nhìn nè, thanh trên, thanh dưới...",
+        "caption_timeline": [
+          {
+            "text": "Nhìn",
+            "start.ms": 0,
+            "end.ms": 77
+          },
+          {
+            "text": "nè,",
+            "start.ms": 144,
+            "end.ms": 344
+          },
+          {
+            "text": "thanh",
+            "start.ms": 400,
+            "end.ms": 677
+          },
+          {
+            "text": "trên,",
+            "start.ms": 717,
+            "end.ms": 944
+          },
+          {
+            "text": "thanh",
+            "start.ms": 955,
+            "end.ms": 1011
+          },
+          {
+            "text": "dưới...",
+            "start.ms": 1077,
+            "end.ms": 1411
+          }
+        ],
+        "font": "vimo://7317175475195875841",
+        "font_size": 6,
+        "alignment": 1,
+        "text_color": "#FFFFFFFF",
+        "border_color": "#000000FF",
+        "border_width": 2,
+        "font_color": "#FFFFFFFF"
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.0,
+        "scale_y": 1.0,
+        "position_y": -0.68,
+        "scale_x": 1.0,
+        "layer": 2
+      },
+      "timeline": {
+        "duration.ms": 1411,
+        "start.ms": 3256
+      }
+    },
+    {
+      "id": "text:4f58ad63cea34e9cbf1071b167d5eac2",
+      "type": "TEXT",
+      "attributes": {
+        "content": "Mấy dợ... một cái giá, hai thanh treo á?!",
+        "caption_timeline": [
+          {
+            "text": "Mấy",
+            "start.ms": 0,
+            "end.ms": 75
+          },
+          {
+            "text": "dợ...",
+            "start.ms": 175,
+            "end.ms": 875
+          },
+          {
+            "text": "một",
+            "start.ms": 909,
+            "end.ms": 1009
+          },
+          {
+            "text": "cái",
+            "start.ms": 1025,
+            "end.ms": 1075
+          },
+          {
+            "text": "giá,",
+            "start.ms": 1159,
+            "end.ms": 1475
+          },
+          {
+            "text": "hai",
+            "start.ms": 1575,
+            "end.ms": 1875
+          },
+          {
+            "text": "thanh",
+            "start.ms": 1898,
+            "end.ms": 2009
+          },
+          {
+            "text": "treo",
+            "start.ms": 2075,
+            "end.ms": 2375
+          },
+          {
+            "text": "á?!",
+            "start.ms": 2425,
+            "end.ms": 2542
+          }
+        ],
+        "font": "vimo://7317175475195875841",
+        "font_size": 6,
+        "alignment": 1,
+        "text_color": "#FFFFFFFF",
+        "border_color": "#000000FF",
+        "border_width": 2,
+        "font_color": "#FFFFFFFF"
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.0,
+        "scale_y": 1.0,
+        "position_y": -0.68,
+        "scale_x": 1.0,
+        "layer": 2
+      },
+      "timeline": {
+        "duration.ms": 2542,
+        "start.ms": 58
+      }
+    },
+    {
+      "id": "text:76d74cb51b9f4b0a9b7e115978e0ae1f",
+      "type": "TEXT",
+      "attributes": {
+        "content": "bên hông còn có móc nữa!",
+        "caption_timeline": [
+          {
+            "text": "bên",
+            "start.ms": 0,
+            "end.ms": 300
+          },
+          {
+            "text": "hông",
+            "start.ms": 333,
+            "end.ms": 433
+          },
+          {
+            "text": "còn",
+            "start.ms": 466,
+            "end.ms": 566
+          },
+          {
+            "text": "có",
+            "start.ms": 611,
+            "end.ms": 700
+          },
+          {
+            "text": "móc",
+            "start.ms": 744,
+            "end.ms": 900
+          },
+          {
+            "text": "nữa!",
+            "start.ms": 966,
+            "end.ms": 1300
+          }
+        ],
+        "font": "vimo://7317175475195875841",
+        "font_size": 6,
+        "alignment": 1,
+        "text_color": "#FFFFFFFF",
+        "border_color": "#000000FF",
+        "border_width": 2,
+        "font_color": "#FFFFFFFF"
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.0,
+        "scale_y": 1.0,
+        "position_y": -0.68,
+        "scale_x": 1.0,
+        "layer": 2
+      },
+      "timeline": {
+        "duration.ms": 1300,
+        "start.ms": 4767
+      }
+    },
+    {
+      "id": "text:881c50370023476a9e096fbb69af2773",
+      "type": "TEXT",
+      "attributes": {
+        "content": "Mấy ní nhớ chọn đúng phân loại",
+        "caption_timeline": [
+          {
+            "text": "Mấy",
+            "start.ms": 0,
+            "end.ms": 75
+          },
+          {
+            "text": "ní",
+            "start.ms": 141,
+            "end.ms": 275
+          },
+          {
+            "text": "nhớ",
+            "start.ms": 325,
+            "end.ms": 475
+          },
+          {
+            "text": "chọn",
+            "start.ms": 528,
+            "end.ms": 741
+          },
+          {
+            "text": "đúng",
+            "start.ms": 768,
+            "end.ms": 875
+          },
+          {
+            "text": "phân",
+            "start.ms": 915,
+            "end.ms": 1075
+          },
+          {
+            "text": "loại",
+            "start.ms": 1115,
+            "end.ms": 1275
+          }
+        ],
+        "font": "vimo://7317175475195875841",
+        "font_size": 6,
+        "alignment": 1,
+        "text_color": "#FFFFFFFF",
+        "border_color": "#000000FF",
+        "border_width": 2,
+        "font_color": "#FFFFFFFF"
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.0,
+        "scale_y": 1.0,
+        "position_y": -0.68,
+        "scale_x": 1.0,
+        "layer": 2
+      },
+      "timeline": {
+        "duration.ms": 1275,
+        "start.ms": 6592
+      }
+    },
+    {
+      "id": "text:d8b6839d68174ea5a493258d73bf1fd3",
+      "type": "TEXT",
+      "attributes": {
+        "content": "trong giỏ nha. Dứt lẹ!",
+        "caption_timeline": [
+          {
+            "text": "trong",
+            "start.ms": 0,
+            "end.ms": 111
+          },
+          {
+            "text": "giỏ",
+            "start.ms": 155,
+            "end.ms": 311
+          },
+          {
+            "text": "nha.",
+            "start.ms": 378,
+            "end.ms": 778
+          },
+          {
+            "text": "Dứt",
+            "start.ms": 844,
+            "end.ms": 978
+          },
+          {
+            "text": "lẹ!",
+            "start.ms": 1044,
+            "end.ms": 1311
+          }
+        ],
+        "font": "vimo://7317175475195875841",
+        "font_size": 6,
+        "alignment": 1,
+        "text_color": "#FFFFFFFF",
+        "border_color": "#000000FF",
+        "border_width": 2,
+        "font_color": "#FFFFFFFF"
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.0,
+        "scale_y": 1.0,
+        "position_y": -0.68,
+        "scale_x": 1.0,
+        "layer": 2
+      },
+      "timeline": {
+        "duration.ms": 1311,
+        "start.ms": 7889
+      }
+    },
+    {
+      "id": "video:637f435d416a45e08e800174da2abb11",
+      "type": "VIDEO",
+      "attributes": {
+        "source": "tos://tos-alisg-i-ccaisearchimagesg-sg/4981f87b766b4f0fb25f13a68db8777a",
+        "meta_type": "photo",
+        "start.ms": 0,
+        "volume": 1.0,
+        "duration.ms": 9212
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "layout": {
+        "position_x": 0.85,
+        "scale_y": 0.16,
+        "position_y": -0.83,
+        "scale_x": 0.16,
+        "layer": 1
+      },
+      "timeline": {
+        "duration.ms": 9212,
+        "start.ms": 0
+      }
+    },
+    {
+      "_extra": {
+        "crop_ratio": "free"
+      },
+      "attributes": {
+        "background.blur": 1.0,
+        "background.color": "",
+        "background.effect": "",
+        "background.image": "",
+        "crop": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "duration.ms": 3256,
+        "file_path": "/7604291f1ed9e59e8e2dbb22b928d64c.mp4",
+        "height": 0,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjanog65hrivqpjm0",
+        "start.ms": 0,
+        "volume": 0.0,
+        "width": 0
+      },
+      "id": "video_0",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "timeline": {
+        "duration.ms": 3256,
+        "start.ms": 0
+      },
+      "type": "VIDEO"
+    },
+    {
+      "_extra": {
+        "crop_ratio": "free"
+      },
+      "attributes": {
+        "background.blur": 1.0,
+        "background.color": "",
+        "background.effect": "",
+        "background.image": "",
+        "crop": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "duration.ms": 3336,
+        "file_path": "/cca844c6d0df159978dd908e9e2ba2f8.mp4",
+        "height": 0,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjbfog65p8rau0lhg",
+        "start.ms": 0,
+        "volume": 0.0,
+        "width": 0
+      },
+      "id": "video_1",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "timeline": {
+        "duration.ms": 3336,
+        "start.ms": 3256
+      },
+      "type": "VIDEO"
+    },
+    {
+      "_extra": {
+        "crop_ratio": "free"
+      },
+      "attributes": {
+        "background.blur": 1.0,
+        "background.color": "",
+        "background.effect": "",
+        "background.image": "",
+        "crop": [
+          0.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "duration.ms": 2619,
+        "file_path": "/6ffa5becfcabd23aad205ddb2a2d3e17.mp4",
+        "height": 0,
+        "meta_type": "video",
+        "source": "vid://v10b9eg5000cdb8tjbvog65s6kg2jsc0",
+        "start.ms": 0,
+        "volume": 0.0,
+        "width": 0
+      },
+      "id": "video_2",
+      "layout": {
+        "layer": 0
+      },
+      "parent_id": "ALMD9SUN-N74M-TYL3-ZTTO-Q1C6OGFOAEJ9",
+      "timeline": {
+        "duration.ms": 2619,
+        "start.ms": 6592
+      },
+      "type": "VIDEO"
+    }
+  ]
+}

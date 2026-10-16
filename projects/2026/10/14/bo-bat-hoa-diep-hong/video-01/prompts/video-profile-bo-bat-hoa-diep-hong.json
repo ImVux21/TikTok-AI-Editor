@@ -1,0 +1,11 @@
+{
+  "product": "Bộ bát hoa Diệp Hồng gốm sứ cao cấp",
+  "category": "Đồ gia dụng",
+  "template_name": "HANDHELD PRODUCT REVIEW MODE",
+  "template_path": "../../../../../../../workflow/assets/handheld-product-review.txt",
+  "template_sha256": "b379c9c7d90a0cdf815bbde6ef53c9a30f07de6bcfaf45de2865054dfe95a9d8",
+  "source": "Original household goods prompt text from the referenced workflow; append unchanged to every Flow scene",
+  "product_reference": "../input/product-reference.jpg",
+  "context_reference": "../input/background-reference.jpg",
+  "script": "../scripts/kich-ban-tong-bo-bat-hoa-diep-hong.md"
+}

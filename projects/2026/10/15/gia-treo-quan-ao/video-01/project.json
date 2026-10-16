@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-15",
+  "product_slug": "gia-treo-quan-ao",
+  "video_id": "video-01",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 720,
+    "height": 1280,
+    "fps": 24
+  },
+  "input": [
+    "input/background-photo-1.jpg",
+    "input/product-photo-2.jpg"
+  ],
+  "flow_generation": {
+    "project_url": "https://flow.google.com/project/0ce18ce1-20cf-4d75-9e07-c1ab4987f615",
+    "model": "Omni 1.1 Flash",
+    "type": "Video · Khung hình (Frames)",
+    "aspect_ratio": "9:16",
+    "resolution": "720p",
+    "duration_seconds": 10,
+    "count": 1,
+    "reference_assets": [
+      "input/background-replaced-rack.png as start frame",
+      "input/background-replaced-rack.png as end frame"
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "scene": "scene-01",
+        "generation_id": null,
+        "status": "rejected by visual QA: supplied room background was not preserved",
+        "displayed_credit_cost": 15,
+        "downloaded_file": "output/scene-01-flow-attempt-01.mp4",
+        "downloaded_at": "2026-10-15 10:15:25 Asia/Saigon",
+        "original_download_name": "Filming_daily_vlog_product_scene_20261015101525.mp4",
+        "qa_report": "qa/source-clip-review.md",
+        "qa_coverage": "240/240 source frames at 24 fps",
+        "qa_result": "reject; no hand defect observed; continuous playback/audio and speech/voice still unverified",
+        "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a"
+      },
+      {
+        "attempt": 2,
+        "scene": "scene-01",
+        "generation_id": null,
+        "status": "submitted; Flow history indicates another render, not independently downloaded or full-QA reviewed; visual impression reported as smooth-wall",
+        "displayed_credit_cost": 15,
+        "prompt_file": "prompts/scene-01-attempt-02-flow-prompt.txt",
+        "reference_assets": [
+          "input/background-photo-1.jpg",
+          "input/product-photo-2.jpg"
+        ],
+        "downloaded_file": null,
+        "qa_report": null,
+        "notes": "Exact Flow generation ID/download filename not recovered; visual impression is not a full QA pass."
+      },
+      {
+        "attempt": 3,
+        "scene": "scene-01",
+        "status": "rejected by full visual QA: plant appears then disappears; overfilled rail; final cut crops rack",
+        "displayed_credit_cost": 15,
+        "prompt_file": "prompts/scene-01-attempt-03-flow-prompt.txt",
+        "reference_assets": [
+          "input/background-replaced-rack.png",
+          "input/product-photo-2.jpg"
+        ],
+        "submitted_at": "2026-10-15 10:39:10 Asia/Saigon",
+        "downloaded_file": "output/scene-01-flow-attempt-03.mp4",
+        "qa_report": "qa/source-clip-attempt03-review.md",
+        "downloaded_at": "2026-10-15 10:41:50 Asia/Saigon",
+        "original_download_name": "Filming_daily_vlog_product_scene_20261015104150.mp4",
+        "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+        "generation_id": null,
+        "qa_coverage": "240/240 source frames at 24 fps",
+        "qa_result": "reject; main wide room match and rack identity pass; continuity/garment count/ending fail; audio and exact Adam preset unverified"
+      },
+      {
+        "attempt": 4,
+        "scene": "scene-01",
+        "status": "rejected by full visual QA: 7–8 garments; final close crop at ~9.7s",
+        "generation_id": null,
+        "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+        "prompt_file": "prompts/scene-01-attempt-04-flow-prompt.txt",
+        "reference_assets": [
+          "input/background-replaced-rack.png",
+          "input/product-photo-2.jpg"
+        ],
+        "submitted_at": "2026-10-15 10:51:34 Asia/Saigon",
+        "downloaded_file": "output/scene-01-flow-attempt-04.mp4",
+        "qa_report": "qa/source-clip-attempt04-review.md",
+        "qa_result": "reject; plant excluded, room/rack generally preserved, but garment count and full-rack ending fail; audio/dialogue/Adam selection remain unverified",
+        "downloaded_at": "2026-10-15 10:57:51 Asia/Saigon",
+        "original_download_name": "Filming_daily_vlog_product_scene_20261015105751.mp4",
+        "notes": "Flow editor shows attempt 04 prompt and two reference chips in order: background-replaced-rack.png then product-photo-2.jpg; rendered with Omni 1.1 Flash, 9:16, 720p, 10 sec, x1. Flow download event took 277 seconds after requesting the 720p export. Per-render generation ID not exposed; f642a966-d7f5-4664-b51b-b3115d3d7e5a is the scene/editor ID only.",
+        "qa_coverage": "240/240 source frames at 24 fps"
+      },
+      {
+        "attempt": 5,
+        "scene": "scene-01",
+        "status": "rejected by full visual QA: background two-tone wall boundary missing",
+        "generation_id": null,
+        "flow_editor_id": "f642a966-d7f5-4664-b51b-b3115d3d7e5a",
+        "prompt_file": "prompts/scene-01-attempt-05-flow-prompt.txt",
+        "reference_assets": [
+          "input/background-replaced-rack.png",
+          "input/product-photo-2.jpg"
+        ],
+        "submitted_at": "2026-10-15 11:04:01 Asia/Saigon",
+        "downloaded_file": "output/scene-01-flow-attempt-05.mp4",
+        "qa_report": "qa/source-clip-attempt05-review.md",
+        "qa_result": "reject; empty rack, full-rack framing, ending and rack identity pass; supplied two-tone wall boundary missing; audio/dialogue/Adam selection unverified",
+        "downloaded_at": "2026-10-15 11:05:58 Asia/Saigon",
+        "original_download_name": "Filming_daily_vlog_product_scene_20261015110558.mp4",
+        "notes": "Submitted about 11:04:01 +07; downloaded at 11:05:58 +07 (117 sec submission-to-download). Prompt excluded props and held full rack; Flow ignored the replacement plate wall. Source clip 720x1280, 24fps, 240 frames, AAC stereo. QA full 240/240, 11:06:40–11:09:18 +07. Attempt 6 must materially change reference mode to start/end frame anchoring.",
+        "qa_coverage": "240/240 source frames at 24 fps"
+      },
+      {
+        "flow_editor_id": "24d77903-dbe3-4137-b370-01eb04dc6eea",
+        "attempt": 6,
+        "scene": "scene-01",
+        "status": "Full visual QA passed 240/240 frames; audio speech quality/Adam selection not audited by listener",
+        "prompt_file": "prompts/scene-01-attempt-06-flow-prompt.txt",
+        "reference_assets": [
+          "input/background-replaced-rack.png (start frame)",
+          "input/background-replaced-rack.png (end frame)"
+        ],
+        "generation_id": null,
+        "displayed_credit_cost": 15,
+        "qa_result": "visual pass; wall boundary, room, empty full rack preserved; no deformation or additions; transcript matches locked script by CapCut ASR; actual timbre/preset not audibly verified",
+        "qa_report": "qa/source-clip-attempt06-review.md",
+        "submitted_at": "2026-10-15 approximately 11:15:20 Asia/Saigon",
+        "downloaded_file": "output/scene-01-flow-attempt-06.mp4",
+        "notes": "Video > Frames; same replacement plate as start and end frame, visible UI confirmation. Omni 1.1 Flash, 9:16, 720p, 10 sec, x1, estimate 15 credits. Submitted approx 11:15:20 +07; downloaded 11:17:47 +07 (about 147 sec). Original 720x1280 H.264, 24 fps, 240 frames, 10.005 sec. No distinct per-render generation ID shown. Adam selector not found; exact preset unverified.",
+        "downloaded_at": "2026-10-15 11:17:47 Asia/Saigon",
+        "original_download_name": "Creating_daily_vlog_video_produc…_20261015111747.mp4",
+        "qa_coverage": "240/240 source frames at 24 fps",
+        "capcut_vid": "v10b9eg5000cdb85a57og65t4ttdrne0",
+        "capcut_caption_batch": "gia-treo-attempt-06-audio-check-20261015",
+        "caption_transcript": [
+          "góc treo đồ đang rối",
+          "mẫu giá treo 2 tầng này có 2 thanh treo",
+          "để chia đồ theo tầng",
+          "kèm móc bên hông",
+          "xem đúng kiểu và kích cỡ trong giỏ nhé"
+        ],
+        "caption_timing_ms": [
+          [
+            0,
+            1315
+          ],
+          [
+            1709,
+            4190
+          ],
+          [
+            4289,
+            5595
+          ],
+          [
+            5669,
+            6750
+          ],
+          [
+            7329,
+            9510
+          ]
+        ],
+        "visual_qa": "PASS; full 240/240 frame review at qa/source-clip-attempt06-review.md"
+      },
+      {
+        "attempt": 7,
+        "scene": "scene-01",
+        "flow_editor_id": null,
+        "generation_id": null,
+        "submitted_at": "2026-10-15 11:32:35 Asia/Saigon",
+        "downloaded_at": "2026-10-15 11:40:43 Asia/Saigon (file received from user path)",
+        "model": "Omni 1.1 Flash",
+        "mode": "Video · Frames",
+        "aspect_ratio": "9:16",
+        "resolution": "720p",
+        "duration_seconds": 10,
+        "count": 1,
+        "displayed_credit_cost": 15,
+        "reference_assets": [
+          "input/background-replaced-rack.png as start frame",
+          "input/background-replaced-rack.png as end frame"
+        ],
+        "prompt_file": "prompts/scene-01-attempt-07-flow-prompt.txt",
+        "prompt_sha256": "ef118ff5fd6658eec0845e16acafca5320b34d9fae3eb485de077fee5030535b",
+        "script": "scripts/script.md",
+        "status": "Downloaded; rejected by full visual QA due invented ceiling and two recessed lights in final 2.5 seconds",
+        "downloaded_file": "output/scene-01-flow-attempt-07.mp4",
+        "voice_selector_status": "No selector visible in generation settings; Adam preset unverified",
+        "flow_project_id": "0ce18ce1-20cf-4d75-9e07-c1ab4987f615",
+        "flow_scene_id": "4e9a9f78-e3bd-4ce2-ade5-09ca46945be2",
+        "original_download_name": "Daily_vlog_video_production_prompt_20261015114043.mp4",
+        "sha256": "A7C37FD9499571CF7D51F78AC5F4C71EE4D1D64D228F39FFA98A13748B7CBDFA",
+        "media_metadata": "1080x1920 H.264, 24 fps, AAC stereo 48 kHz, 10.000 seconds",
+        "download_delay_from_submission_seconds": 488,
+        "visual_qa": "REJECT; all 240/240 source-rate frames reviewed; report qa/source-clip-attempt07-review.md"
+      },
+      {
+        "displayed_credit_cost": 15,
+        "prompt_file": "prompts/scene-01-attempt-08-flow-prompt.txt",
+        "generation_id": null,
+        "status": "Conditional visual QA pass: approved source ranges [0.00,3.15) and [5.80,10.00); middle rejected for rack rotation and invented ceiling lights",
+        "duration_seconds": 10,
+        "notes": "Generation submitted in project 0ce18ce1-20cf-4d75-9e07-c1ab4987f615. Source-plate pair visually confirmed identical in the two Frames slots. Actual composer string reused the attempt-06 template suffix and was updated with the new script and camera lock; exact composer-string SHA-256 differs from agent authored file because Flow text was flattened in UI. Flow editor ID is scene/editor ID only; distinct generation ID not exposed. User requested assembly, but CapCut upload was auto-review-rejected for attempt 07 because the file includes a potentially private room interior; no bytes were uploaded.",
+        "resolution": "720p",
+        "flow_editor_id": "3cf6af57-ce32-4290-92e4-3d064babe58e",
+        "voice_selector_status": "No selector visible in generation settings; Adam preset unverified",
+        "scene": "scene-01",
+        "mode": "Video · Frames",
+        "reference_assets": [
+          "input/background-replaced-rack.png as first/start frame",
+          "input/background-replaced-rack.png as last/end frame"
+        ],
+        "model": "Omni 1.1 Flash",
+        "aspect_ratio": "9:16",
+        "count": 1,
+        "visual_qa": "CONDITIONAL PASS: 176/240 source frames in two separate ranges; all 240/240 frames reviewed",
+        "qa_report": "qa/source-clip-attempt08-review.md",
+        "qa_coverage": "240/240 source frames at 24 fps",
+        "approved_visual_ranges_seconds": [
+          [
+            0.0,
+            3.15
+          ],
+          [
+            5.8,
+            10.0
+          ]
+        ],
+        "submitted_at": "2026-10-15 11:53:49 Asia/Saigon",
+        "script": "scripts/script.md",
+        "authored_prompt_file_sha256": "010cab642b18de6695151965cf6bf152ae280264324c4ac7634bdefadeb8fbb5",
+        "downloaded_at": "2026-10-15 13:47:47 Asia/Saigon",
+        "downloaded_file": "output/scene-01-flow-attempt-08.mp4",
+        "original_download_name": "Daily_vlog_video_production_script_20261015134747.mp4",
+        "sha256": "6DD43145E02849FEE8837422EF7046EBC32A3E738264A1D3A72D41C65D20AD3E",
+        "media_metadata": "720x1280 H.264, 24 fps, 240 frames, AAC, 10.005 seconds",
+        "voice_preview_approval": "User replied 'ổn' after listening to attempt 08 Flow preview; exact Adam preset remains unverified",
+        "attempt": 8,
+        "prompt_sha256": "c9f9e01aae0a7101844d2c03a5a56edc917e7546b7af32e49c4f98163d4127c3",
+        "download_observed_delay_seconds": 140
+      }
+    ],
+    "download_notes": "Attempt 03 download completed in about 42 seconds; attempt 04 720p download event took about 277 seconds.",
+    "voice_qa": "User approved attempt 08 Flow preview voice; audio-only CapCut ASR matches the intended Vietnamese prompt, but exact Adam preset and independent listening remain unverified",
+    "editing": "Local 10-second final v2 exported from QA-cleared segments of attempts 08, 03 and 04 with user-approved Flow audio, ASR-timed captions and exact circular shop-brand watermark mask; final visual QA passed 240/240 frames. CapCut cloud upload was not used after prior auto-review rejection",
+    "visual_qa": "Attempts 01, 03 and 04 rechecked for safe cuts; attempt 08 conditional pass in two ranges after full-frame review"
+  },
+  "assets": {
+    "voiceover": null,
+    "music": null
+  },
+  "output": {
+    "video": "output/final_video-v2.mp4",
+    "subtitles_srt": "output/subtitles-final.srt",
+    "captions_ass": "output/final-captions.ass",
+    "candidate_sha256": "2B9603EBAC4DBD9E6883DE7CDB25398163A9BE23D80022B5B0C9B142DE35D4D3",
+    "candidate_duration_seconds": 10.0,
+    "candidate_frames": 240,
+    "release_qa": "VISUAL PASS 240/240 frames; output v2 SHA verified; continuous exported audio PCM correlates 0.9998 at zero lag with user-approved attempt08 Flow source, same 10.0053s decoded length; independent ear review/Adam preset unverified",
+    "release_qa_report": "qa/final-export-v2-review.md",
+    "rejected_export_v1": "output/final_video.mp4"
+  },
+  "timeline": {
+    "segments": [
+      {
+        "source": "output/scene-01-flow-attempt-08.mp4",
+        "source_frames": [
+          0,
+          75
+        ],
+        "timeline_frames": [
+          0,
+          75
+        ]
+      },
+      {
+        "source": "output/scene-01-flow-attempt-03.mp4",
+        "source_frames": [
+          108,
+          144
+        ],
+        "timeline_frames": [
+          75,
+          111
+        ]
+      },
+      {
+        "source": "output/scene-01-flow-attempt-08.mp4",
+        "source_frames": [
+          140,
+          176
+        ],
+        "timeline_frames": [
+          111,
+          147
+        ]
+      },
+      {
+        "source": "output/scene-01-flow-attempt-04.mp4",
+        "source_frames": [
+          87,
+          180
+        ],
+        "timeline_frames": [
+          147,
+          240
+        ]
+      }
+    ],
+    "voiceover_duration": 10.0,
+    "voiceover_source": "output/attempt08-flow-audio.m4a",
+    "exported_audio_provenance_check": "Decoded output v2 AAC and approved attempt08 source audio to mono 16 kHz PCM: both 160085 samples (10.0053125 s), Pearson correlation 0.9998 at zero lag; confirms edit retained the same continuous speech track despite AAC re-encoding",
+    "transition_policy": "Clean hard cuts at frames 75, 111 and 147; no stills or transition effects",
+    "shop_branding": {
+      "source": "workflow/assets/shop-branding.png",
+      "shape": "circle",
+      "diameter_px": 68,
+      "center_px": [
+        600,
+        1158
+      ]
+    },
+    "source_fps": 24
+  },
+  "research": "scripts/research.md",
+  "product_notes": [
+    "Visible in product reference: black freestanding double-height clothing rack with two horizontal hanging bars, side hooks, and a lower connecting/base structure.",
+    "Listing URL supplied: https://shop.tiktok.com/vn/pdp/1732793679097070628. Listing has multiple styles/sizes; exact selected variant matching product image is unverified. Do not use exact size, price, load capacity, offer, or bundle contents.",
+    "User confirmed background photo is the room context and the existing different rack with wooden shelves should be replaced by the product reference. This is generated staging, not a real installation or personal use testimonial.",
+    "Locked source template: workflow/assets/daily-vlog-mode.txt (10-SECOND DAILY VLOG MODE); SHA-256 4F5AE6490436166A745F99F9ECC8E8BF6C387E3F018891BD98747109D5996A11. See video-profile.json and scripts/script.md."
+  ],
+  "publishing": {
+    "post_package": "publishing/post-package.md",
+    "status": "Copy-ready captions prepared for exact v2 export; user must attach the supplied TikTok Shop PDP as the product link when posting; no post submitted"
+  },
+  "audio_policy": {
+    "provider": "google_flow",
+    "requested_voice": "Adam",
+    "voice_selection_status": "No Adam selector found in inspected Flow generation UI; exact named preset unverified",
+    "language": "vi",
+    "elevenlabs_requires_direct_request": true,
+    "source_audio_status": "Attempt 08 preview voice approved by user; full 10-second source audio extracted to output/attempt08-flow-audio.m4a; audio-only CapCut ASR settled and matches intended script; exact Adam preset unverified",
+    "policy_path": "workflow/VOICE-POLICY.md",
+    "asr_language": "vi-VN",
+    "asr_status": "attempt08 audio-only recognition complete: 3 utterances match intended prompt with punctuation/capitalization variation; independent listening not yet performed",
+    "asr_vid": "v10b9eg5000cdb87ilfog65s6kmlij5g",
+    "asr_batch": "gia-treo-attempt08-audio-20261015",
+    "asr_utterances_ms": [
+      {
+        "start": 0,
+        "end": 3721,
+        "text": "ủa một giá mà treo được 2 tầng luôn á thanh trên thanh dưới"
+      },
+      {
+        "start": 3758,
+        "end": 5201,
+        "text": "chia đồ Ra là thấy ngay"
+      },
+      {
+        "start": 5638,
+        "end": 8841,
+        "text": "có nhiều phân loại đó chọn đúng mẫu trong giỏ nha"
+      }
+    ]
+  },
+  "script_status": "Revised 2026-10-15 for a more conversational hook, visual payoff, and shorter CTA",
+  "script_path": "scripts/script.md"
+}

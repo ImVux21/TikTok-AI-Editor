@@ -1,0 +1,224 @@
+{
+  "source_generation_id": "JIUgs1jAWPkTbCFruG3A",
+  "transcription_generation_id": "SxoDx1WYfujVI7VIsrlq",
+  "source_audio": "audio/adam-v3-original.mp3",
+  "final_audio": "audio/adam-v3-1p2.m4a",
+  "final_audio_sha256": "bcd64c75fb7c3d37ceeb7b44bba97ea4c52c2c838301ee29a283abc91a77afd0",
+  "timing_method": "original Scribe absolute word times divided by 1.2; complete bracket tags removed before grouping",
+  "words": [
+    {
+      "text": "Mấy",
+      "start_ms": 58,
+      "end_ms": 133
+    },
+    {
+      "text": "dợ...",
+      "start_ms": 233,
+      "end_ms": 933
+    },
+    {
+      "text": "một",
+      "start_ms": 967,
+      "end_ms": 1067
+    },
+    {
+      "text": "cái",
+      "start_ms": 1083,
+      "end_ms": 1133
+    },
+    {
+      "text": "giá,",
+      "start_ms": 1217,
+      "end_ms": 1533
+    },
+    {
+      "text": "hai",
+      "start_ms": 1633,
+      "end_ms": 1933
+    },
+    {
+      "text": "thanh",
+      "start_ms": 1956,
+      "end_ms": 2067
+    },
+    {
+      "text": "treo",
+      "start_ms": 2133,
+      "end_ms": 2433
+    },
+    {
+      "text": "á?!",
+      "start_ms": 2483,
+      "end_ms": 2600
+    },
+    {
+      "text": "Nhìn",
+      "start_ms": 3256,
+      "end_ms": 3333
+    },
+    {
+      "text": "nè,",
+      "start_ms": 3400,
+      "end_ms": 3600
+    },
+    {
+      "text": "thanh",
+      "start_ms": 3656,
+      "end_ms": 3933
+    },
+    {
+      "text": "trên,",
+      "start_ms": 3973,
+      "end_ms": 4200
+    },
+    {
+      "text": "thanh",
+      "start_ms": 4211,
+      "end_ms": 4267
+    },
+    {
+      "text": "dưới...",
+      "start_ms": 4333,
+      "end_ms": 4667
+    },
+    {
+      "text": "bên",
+      "start_ms": 4767,
+      "end_ms": 5067
+    },
+    {
+      "text": "hông",
+      "start_ms": 5100,
+      "end_ms": 5200
+    },
+    {
+      "text": "còn",
+      "start_ms": 5233,
+      "end_ms": 5333
+    },
+    {
+      "text": "có",
+      "start_ms": 5378,
+      "end_ms": 5467
+    },
+    {
+      "text": "móc",
+      "start_ms": 5511,
+      "end_ms": 5667
+    },
+    {
+      "text": "nữa!",
+      "start_ms": 5733,
+      "end_ms": 6067
+    },
+    {
+      "text": "Mấy",
+      "start_ms": 6592,
+      "end_ms": 6667
+    },
+    {
+      "text": "ní",
+      "start_ms": 6733,
+      "end_ms": 6867
+    },
+    {
+      "text": "nhớ",
+      "start_ms": 6917,
+      "end_ms": 7067
+    },
+    {
+      "text": "chọn",
+      "start_ms": 7120,
+      "end_ms": 7333
+    },
+    {
+      "text": "đúng",
+      "start_ms": 7360,
+      "end_ms": 7467
+    },
+    {
+      "text": "phân",
+      "start_ms": 7507,
+      "end_ms": 7667
+    },
+    {
+      "text": "loại",
+      "start_ms": 7707,
+      "end_ms": 7867
+    },
+    {
+      "text": "trong",
+      "start_ms": 7889,
+      "end_ms": 8000
+    },
+    {
+      "text": "giỏ",
+      "start_ms": 8044,
+      "end_ms": 8200
+    },
+    {
+      "text": "nha.",
+      "start_ms": 8267,
+      "end_ms": 8667
+    },
+    {
+      "text": "Dứt",
+      "start_ms": 8733,
+      "end_ms": 8867
+    },
+    {
+      "text": "lẹ!",
+      "start_ms": 8933,
+      "end_ms": 9200
+    }
+  ],
+  "cues": [
+    {
+      "index": 1,
+      "start_ms": 58,
+      "end_ms": 2600,
+      "text": "Mấy dợ... một cái giá, hai thanh treo á?!"
+    },
+    {
+      "index": 2,
+      "start_ms": 3256,
+      "end_ms": 4667,
+      "text": "Nhìn nè, thanh trên, thanh dưới..."
+    },
+    {
+      "index": 3,
+      "start_ms": 4767,
+      "end_ms": 6067,
+      "text": "bên hông còn có móc nữa!"
+    },
+    {
+      "index": 4,
+      "start_ms": 6592,
+      "end_ms": 7867,
+      "text": "Mấy ní nhớ chọn đúng phân loại"
+    },
+    {
+      "index": 5,
+      "start_ms": 7889,
+      "end_ms": 9200,
+      "text": "trong giỏ nha. Dứt lẹ!"
+    }
+  ],
+  "scene_audio_windows": [
+    {
+      "scene": 1,
+      "start_ms": 0,
+      "end_ms": 3256
+    },
+    {
+      "scene": 2,
+      "start_ms": 3256,
+      "end_ms": 6592
+    },
+    {
+      "scene": 3,
+      "start_ms": 6592,
+      "end_ms": 9211
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "YYYY-MM-DD",
+  "product_slug": "product-name",
+  "video_id": "video-01",
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "input": [],
+  "assets": {
+    "voiceover": null,
+    "music": null
+  },
+  "output": {
+    "video": "output/final_video.mp4",
+    "subtitles_srt": "output/subtitles.srt",
+    "captions_ass": null
+  },
+  "timeline": {
+    "segments": [],
+    "voiceover_duration": null,
+    "transition_policy": "Choose cuts and transitions for story and motion continuity."
+  },
+  "research": null,
+  "product_notes": [],
+  "publishing": {
+    "post_package": "publishing/post-package.md"
+  },
+  "audio_policy": {
+    "provider": "google_flow",
+    "requested_voice": "Adam",
+    "voice_selection_status": "pending_ui_verification",
+    "language": "vi",
+    "elevenlabs_requires_direct_request": true,
+    "source_audio_status": "pending_full_audio_review",
+    "policy_path": "workflow/VOICE-POLICY.md"
+  }
+}

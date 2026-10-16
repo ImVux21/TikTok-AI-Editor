@@ -1,0 +1,149 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 1 OF 3
+Video: Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03. One 8-second scene only, vertical 9:16, Flow Frames mode. This scene covers 0:00–0:08 of a 24-second edit; it is not the whole video.
+
+IMAGE SLOTS
+First frame: input/table-before-ai.png. Match its exact overhead composition: the same brown wood dining table, one centered round woven placemat, wood chairs and white curtains. Last frame: input/table-after-ai.png. Match that exact final meal layout, including the same table and placemat, the same pink and pale flowers in the upper right, and only the exact tableware and food visible in that image. Use only these two keyframes; the product and table screenshots are for human QA and are not extra generation references.
+
+SCENE OBJECTIVE AND ACTION
+Open on the genuinely bare table for the question in the voice-over, with a small human-operated smartphone drift across the tabletop. Near the 3-second reveal, use a brief natural camera pass close to the woven placemat that momentarily fills most of the frame; resolve that occlusion into the supplied final-frame meal arrangement. This is an edited AI reenactment of a table being made ready, not a visible setup sequence or testimony. Do not animate dishes materializing, sliding, multiplying, or being carried by invisible hands. End settled on the exact final keyframe composition for the cut into scene 2.
+
+CAMERA AND CONTINUITY
+Portrait phone video, high three-quarter overhead view, restrained handheld movement only: a short drift, one quick close pass across the placemat for a natural visual transition, then settle. Keep table perspective, daylight, curtains, chairs and warm wood grain consistent. Avoid a digital effect, dramatic zoom or a camera teleport. Final pose must align with input/table-after-ai.png.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Do not add anything not present in the two supplied frames. Do not add hands, people, text, graphics, subtitles, logos, TikTok UI, extra food, extra flowers, cutlery or tableware. During the bare-table opening, only the placemat seen in the first frame is on the table. At the reveal, match the exact number, placement, outline, glaze, blue-gray rims and floral/leaf motifs of the items in the last frame. No plain round replacement bowls, no new handled bowls, no duplicated or missing pieces, no morphing, no changed food, and no invented product features. No generated speech or audio; voice-over and on-screen text are added in post.
+
+VOICE-OVER TIMING GUIDE (POST-PRODUCTION ONLY)
+0:00–0:03 “Mâm cơm nhà, muốn nhìn hài hòa hơn?”
+0:03–0:08 “Một cách đơn giản là chọn chén đĩa cùng tông, cùng họa tiết.”
+
+10-SECOND DAILY VLOG MODE
+When the requested video duration is 10 seconds, prioritize a fast-paced real-life daily-vlog montage rather than a traditional product commercial.
+The video should feel like:
+“Someone casually filmed this useful product during a normal moment at home.”
+NOT:
+“A 3D product animation with multiple camera angles.”
+CORE STYLE
+Use approximately 5–8 short shots within 10 seconds.
+Each shot should last roughly 0.7–2 seconds, depending on the action.
+The camera should continuously feel human-operated, as if the person filming is physically moving around the room and capturing different moments with a smartphone.
+The viewer should feel like they are watching fragments of a real daily routine.
+10-SECOND RHYTHM
+Use this general structure:
+0:00–0:01.2 — HOOK
+Start with an interesting detail, problem, action, or visually satisfying moment.
+0:01.2–0:02.4 — CONTEXT
+Quickly reveal the environment or situation.
+0:02.4–0:03.6 — PRODUCT
+Reveal the product from another angle.
+0:03.6–0:05.0 — ACTION
+Show the product performing its useful function.
+0:05.0–0:06.3 — DETAIL
+Cut to a close-up or macro detail.
+0:06.3–0:08.0 — RESULT
+Show the visible transformation or benefit.
+0:08.0–0:10.0 — PAYOFF
+Show the finished result with a natural handheld camera move.
+This is a flexible framework, not a mandatory sequence.
+Adapt the timing to the product.
+MULTI-ANGLE DAILY VLOG LANGUAGE
+Use frequent but motivated changes in:
+Camera distance
+Camera height
+Camera angle
+Direction
+Framing
+Shot size
+Camera position
+Possible sequence:
+Wide → Medium → Close-up → Macro → Side angle → Top-down → Wide/Medium reveal
+Do NOT make every shot look perfectly composed.
+Allow slight natural differences between shots.
+This should feel like a person quickly capturing interesting moments, not a professional camera rig following a programmed shot list.
+TRANSITIONS
+Prioritize natural physical transitions over digital effects.
+Good transitions:
+Camera moves past an object and cuts.
+Product fills the frame and cuts to detail.
+Quick handheld reframing.
+Movement in one shot continues into the next.
+Match movement between two shots.
+Cut on action.
+Object briefly covers the lens.
+Natural whip-pan caused by the person turning the phone.
+Camera approaches a surface and cuts to a close-up.
+Avoid:
+Flash transitions.
+Glitch transitions.
+3D transitions.
+Spin transitions.
+Artificial light streaks.
+Overly cinematic transitions.
+Random effects.
+The cuts should feel like real vlog editing.
+HUMAN-OPERATED CAMERA CONTINUITY
+Although the video contains no visible person, every shot should imply that the same invisible person is filming.
+For example:
+Shot 1:
+The camera is standing several steps away.
+Shot 2:
+The person has physically moved closer.
+Shot 3:
+The person has moved to the side.
+Shot 4:
+The person lowers the phone.
+Shot 5:
+The person brings the phone closer for a detail.
+Shot 6:
+The person steps back to show the result.
+This creates the feeling of a real continuous filming session.
+Do not make the camera teleport between positions.
+CAMERA IMPERFECTION
+Allow subtle realistic imperfections:
+Slight handheld shake.
+Tiny framing corrections.
+Small exposure adjustment.
+Slight autofocus change.
+Natural motion blur.
+Small variations in camera height.
+Slightly imperfect composition.
+These imperfections should be subtle.
+Do NOT make the footage shaky or amateurish.
+The goal is:
+REALISTIC SMARTPHONE FOOTAGE, NOT BAD CAMERA WORK.
+PRODUCT PRESERVATION
+Even with rapid cuts, the product must remain identical across every shot.
+Maintain:
+Same shape
+Same color
+Same material
+Same proportions
+Same details
+Same logo
+Same design
+No morphing between angles.
+EDITING FEEL
+The final 10 seconds should feel:
+Fast
+Casual
+Natural
+Addictive
+Visually varied
+Real-life
+Smartphone-shot
+Lifestyle-oriented
+Avoid the feeling of a traditional polished TV advertisement.
+Think:
+“A person casually filming a useful thing they use during their day.”
+rather than:
+“A company presenting a product.”
+IMPORTANT
+Do not increase the number of shots just for the sake of speed.
+Every cut must reveal something new:
+new angle, new detail, new action, new context, or new result.
+The viewer should feel that something new is happening every 1–2 seconds.
+Final priority:
+REAL DAILY VLOG FEEL > CINEMATIC COMMERCIAL FEEL
+MULTIPLE REAL CAMERA ANGLES > AUTOMATED CAMERA MOVEMENT
+FAST VISUAL STORYTELLING > LONG PRODUCT SHOTS
+NATURAL CUTS > SPECIAL EFFECT TRANSITIONS

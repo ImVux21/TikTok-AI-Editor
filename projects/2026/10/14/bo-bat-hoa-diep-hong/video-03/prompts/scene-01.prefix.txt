@@ -1,0 +1,18 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 1 OF 3
+Video: Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03. One 8-second scene only, vertical 9:16, Flow Frames mode. This scene covers 0:00–0:08 of a 24-second edit; it is not the whole video.
+
+IMAGE SLOTS
+First frame: input/table-before-ai.png. Match its exact overhead composition: the same brown wood dining table, one centered round woven placemat, wood chairs and white curtains. Last frame: input/table-after-ai.png. Match that exact final meal layout, including the same table and placemat, the same pink and pale flowers in the upper right, and only the exact tableware and food visible in that image. Use only these two keyframes; the product and table screenshots are for human QA and are not extra generation references.
+
+SCENE OBJECTIVE AND ACTION
+Open on the genuinely bare table for the question in the voice-over, with a small human-operated smartphone drift across the tabletop. Near the 3-second reveal, use a brief natural camera pass close to the woven placemat that momentarily fills most of the frame; resolve that occlusion into the supplied final-frame meal arrangement. This is an edited AI reenactment of a table being made ready, not a visible setup sequence or testimony. Do not animate dishes materializing, sliding, multiplying, or being carried by invisible hands. End settled on the exact final keyframe composition for the cut into scene 2.
+
+CAMERA AND CONTINUITY
+Portrait phone video, high three-quarter overhead view, restrained handheld movement only: a short drift, one quick close pass across the placemat for a natural visual transition, then settle. Keep table perspective, daylight, curtains, chairs and warm wood grain consistent. Avoid a digital effect, dramatic zoom or a camera teleport. Final pose must align with input/table-after-ai.png.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Do not add anything not present in the two supplied frames. Do not add hands, people, text, graphics, subtitles, logos, TikTok UI, extra food, extra flowers, cutlery or tableware. During the bare-table opening, only the placemat seen in the first frame is on the table. At the reveal, match the exact number, placement, outline, glaze, blue-gray rims and floral/leaf motifs of the items in the last frame. No plain round replacement bowls, no new handled bowls, no duplicated or missing pieces, no morphing, no changed food, and no invented product features. No generated speech or audio; voice-over and on-screen text are added in post.
+
+VOICE-OVER TIMING GUIDE (POST-PRODUCTION ONLY)
+0:00–0:03 “Mâm cơm nhà, muốn nhìn hài hòa hơn?”
+0:03–0:08 “Một cách đơn giản là chọn chén đĩa cùng tông, cùng họa tiết.”

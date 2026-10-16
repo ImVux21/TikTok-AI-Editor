@@ -1,0 +1,146 @@
+# Scene 01 prefix — newly written
+
+**Role in video:** One complete 10-second vertical scene for the locked script's hook, staged product reveal, simple hanging demonstration, side-hook detail, and closing room view. This is generated staging, not a real installation, personal testimonial, or proof of load capacity.
+
+**Exact references:** Use `input/background-photo-1.jpg` as the room/background reference and `input/product-photo-2.jpg` as the sole product-design reference. Replace the old rack and its attached shelves, boxes, shoes, plant, book, and clothes in the room with the exact black rack shown in the product photo. Preserve the room's warm off-white wall, natural wood floor, perspective, and soft daylight. Do not retain or merge any part of the old rack or wooden shelving into the product.
+
+**Action and shot progression:** Film a single continuous-feeling, fast daily-vlog montage of about 5–7 motivated cuts, all within this one 10-second scene. Open close on one lightweight hanger being placed on the product's upper hanging rail; quickly step back to reveal the replacement rack in the reference room; move naturally to show the second hanging rail; show a hand placing only a few lightweight garments on that rail; briefly move close to the visible side hook without placing anything on it; then step back to a clear view of the rack in the room. Use natural hand movement and believable contact. Keep the same rack shape, orientation, position, scale, black finish, and room lighting across every cut. No camera teleporting, floating hangers, or instant appearance of garments.
+
+**Camera:** 9:16 smartphone footage at human eye/chest height. Handheld with only slight natural shake and small framing corrections. Vary close, medium, and room-wide views by physically moving the phone; use quick clean cuts on the action. Keep the rack fully legible in the reveal and final view; do not crop away its feet, rails, or side hooks. No orbiting, automated 3D camera movement, dramatic push-in, or effects.
+
+**Product identity and prohibited inventions:** Reproduce the black freestanding rack from `input/product-photo-2.jpg` faithfully, including its visible upright tubes, two parallel hanging rails at their shown relative heights/depths, side hooks, crossbars, and feet. Preserve its proportions and construction; do not add wooden shelves, shoe racks, baskets, wheels, extra hooks, logos, labels, or other hardware. Do not invent dimensions, capacity, price, included accessories, assembly steps, adjustability, durability, or material claims. Do not shake or load-test the rack. Show only a few lightweight garments as props. No shoes or personal-use testimonial. No extra people; only a natural hand/partial forearm may briefly enter to hang a garment. No text graphics or subtitles generated in-scene.
+
+**Continuity:** The product from the product reference replaces the old rack in the background reference; it is not a second rack beside the old one. The same room and single black product remain consistent throughout. Preserve plausible contact, garment count, shadows, and exposure between cuts. End on moving footage, not a still end card.
+
+**Voiceover:** Generate the locked Vietnamese script dialogue once, verbatim: “Góc treo đồ đang rối? Mẫu giá treo hai tầng này có hai thanh treo để chia đồ theo tầng, kèm móc bên hông. Xem đúng kiểu và kích cỡ trong giỏ nhé.” Use one consistent male Vietnamese voice, low, clear, and naturally conversational, matching the user's requested Adam style. Exact Adam preset is unverified pending inspection of Flow's actual voice selector; do not claim a preset was selected. Voiceover only, no visible speaker. Do not speak any production directions.
+
+10-SECOND DAILY VLOG MODE
+When the requested video duration is 10 seconds, prioritize a fast-paced real-life daily-vlog montage rather than a traditional product commercial.
+The video should feel like:
+“Someone casually filmed this useful product during a normal moment at home.”
+NOT:
+“A 3D product animation with multiple camera angles.”
+CORE STYLE
+Use approximately 5–8 short shots within 10 seconds.
+Each shot should last roughly 0.7–2 seconds, depending on the action.
+The camera should continuously feel human-operated, as if the person filming is physically moving around the room and capturing different moments with a smartphone.
+The viewer should feel like they are watching fragments of a real daily routine.
+10-SECOND RHYTHM
+Use this general structure:
+0:00–0:01.2 — HOOK
+Start with an interesting detail, problem, action, or visually satisfying moment.
+0:01.2–0:02.4 — CONTEXT
+Quickly reveal the environment or situation.
+0:02.4–0:03.6 — PRODUCT
+Reveal the product from another angle.
+0:03.6–0:05.0 — ACTION
+Show the product performing its useful function.
+0:05.0–0:06.3 — DETAIL
+Cut to a close-up or macro detail.
+0:06.3–0:08.0 — RESULT
+Show the visible transformation or benefit.
+0:08.0–0:10.0 — PAYOFF
+Show the finished result with a natural handheld camera move.
+This is a flexible framework, not a mandatory sequence.
+Adapt the timing to the product.
+MULTI-ANGLE DAILY VLOG LANGUAGE
+Use frequent but motivated changes in:
+Camera distance
+Camera height
+Camera angle
+Direction
+Framing
+Shot size
+Camera position
+Possible sequence:
+Wide → Medium → Close-up → Macro → Side angle → Top-down → Wide/Medium reveal
+Do NOT make every shot look perfectly composed.
+Allow slight natural differences between shots.
+This should feel like a person quickly capturing interesting moments, not a professional camera rig following a programmed shot list.
+TRANSITIONS
+Prioritize natural physical transitions over digital effects.
+Good transitions:
+Camera moves past an object and cuts.
+Product fills the frame and cuts to detail.
+Quick handheld reframing.
+Movement in one shot continues into the next.
+Match movement between two shots.
+Cut on action.
+Object briefly covers the lens.
+Natural whip-pan caused by the person turning the phone.
+Camera approaches a surface and cuts to a close-up.
+Avoid:
+Flash transitions.
+Glitch transitions.
+3D transitions.
+Spin transitions.
+Artificial light streaks.
+Overly cinematic transitions.
+Random effects.
+The cuts should feel like real vlog editing.
+HUMAN-OPERATED CAMERA CONTINUITY
+Although the video contains no visible person, every shot should imply that the same invisible person is filming.
+For example:
+Shot 1:
+The camera is standing several steps away.
+Shot 2:
+The person has physically moved closer.
+Shot 3:
+The person has moved to the side.
+Shot 4:
+The person lowers the phone.
+Shot 5:
+The person brings the phone closer for a detail.
+Shot 6:
+The person steps back to show the result.
+This creates the feeling of a real continuous filming session.
+Do not make the camera teleport between positions.
+CAMERA IMPERFECTION
+Allow subtle realistic imperfections:
+Slight handheld shake.
+Tiny framing corrections.
+Small exposure adjustment.
+Slight autofocus change.
+Natural motion blur.
+Small variations in camera height.
+Slightly imperfect composition.
+These imperfections should be subtle.
+Do NOT make the footage shaky or amateurish.
+The goal is:
+REALISTIC SMARTPHONE FOOTAGE, NOT BAD CAMERA WORK.
+PRODUCT PRESERVATION
+Even with rapid cuts, the product must remain identical across every shot.
+Maintain:
+Same shape
+Same color
+Same material
+Same proportions
+Same details
+Same logo
+Same design
+No morphing between angles.
+EDITING FEEL
+The final 10 seconds should feel:
+Fast
+Casual
+Natural
+Addictive
+Visually varied
+Real-life
+Smartphone-shot
+Lifestyle-oriented
+Avoid the feeling of a traditional polished TV advertisement.
+Think:
+“A person casually filming a useful thing they use during their day.”
+rather than:
+“A company presenting a product.”
+IMPORTANT
+Do not increase the number of shots just for the sake of speed.
+Every cut must reveal something new:
+new angle, new detail, new action, new context, or new result.
+The viewer should feel that something new is happening every 1–2 seconds.
+Final priority:
+REAL DAILY VLOG FEEL > CINEMATIC COMMERCIAL FEEL
+MULTIPLE REAL CAMERA ANGLES > AUTOMATED CAMERA MOVEMENT
+FAST VISUAL STORYTELLING > LONG PRODUCT SHOTS
+NATURAL CUTS > SPECIAL EFFECT TRANSITIONS

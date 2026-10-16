@@ -1,0 +1,18 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 3 OF 3
+Video: Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03. One 8-second scene only, vertical 9:16, Flow Frames mode. This scene covers 0:16–0:24 of a 24-second edit; it is not the whole video.
+
+IMAGE SLOTS
+First frame: input/table-after-ai.png. Last frame: input/table-after-ai.png. Use the same approved image for both framing anchors. No separate image references: Veo 3.1 Quality Frames mode does not support Ingredients/References-to-Video. `input/product-reference-ui-source.jpg` and `input/user-table-product-reference.png` remain human QA sources only.
+
+SCENE OBJECTIVE AND ACTION
+Return to the exact finished-table composition, then make one slow, natural handheld sweep across the meal and the existing patterned ceramic pieces to give the listing caveat room to land. Near the CTA, move closer to one already-visible dish with a clear leaf/floral motif, then make a small physical step back and settle on the exact last-frame overview. This is still one scene in the larger video, not a standalone commercial. Treat the AI meal image as a reenactment; do not present it as a buyer's real meal or personal product experience.
+
+CAMERA AND CONTINUITY
+Start aligned to the same high three-quarter overhead view as the end of scene 2. Subtle phone-handheld sway, one slow lateral sweep, a modest lean-in to the motif, and a gentle return to the same overview. Human-operated smartphone viewpoint, no cinematic rig, sudden reframe or teleport. Keep perspective, light, table, woven placemat, food, flower vase, dishes and every object position consistent. Finish on `input/table-after-ai.png` for a clean edit endpoint.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Match the final keyframe exactly: visible item count and locations, white ceramic glaze, scalloped outlines, blue-gray rims and leaf/floral motifs. Do not invent, remove, duplicate, rotate, slide or morph objects; do not change food, color, serving size or arrangement. No people, hands, steam, extra tableware, utensils, food, decor, words, numbers, offer badges, subtitles, watermark imitation, logo, TikTok interface or graphic CTA. No claims about exact count, price, discount, durability or use performance. No generated dialogue/audio; the approved Vietnamese voice-over and text are added in post.
+
+VOICE-OVER TIMING GUIDE (POST-PRODUCTION ONLY)
+0:16–0:19 “Tên sản phẩm ghi 30 chi tiết, nhưng phần mô tả ghi 31.”
+0:19–0:24 “Mở giỏ hàng, kiểm tra phân loại và số món hiển thị rồi hãy chốt xem có hợp nhà mình không nhé.”

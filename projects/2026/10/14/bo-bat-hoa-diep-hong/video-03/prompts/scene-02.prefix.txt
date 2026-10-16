@@ -1,0 +1,18 @@
+NEWLY WRITTEN SCENE-SPECIFIC PREFIX — SCENE 2 OF 3
+Video: Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03. One 8-second scene only, vertical 9:16, Flow Frames mode. This scene covers 0:08–0:16 of a 24-second edit; it is not the whole video.
+
+IMAGE SLOTS
+First frame: input/table-after-ai.png. Last frame: input/table-after-ai.png. Use the same approved image for the opening and closing composition. Do not add separate product/background reference assets; Veo 3.1 Quality Frames mode does not support Ingredients/References-to-Video. `input/product-reference-ui-source.jpg` and `input/user-table-product-reference.png` are human QA sources only.
+
+SCENE OBJECTIVE AND ACTION
+Continue from the finished meal-table composition. The invisible filmer physically leans closer to one already-visible scalloped ceramic dish to reveal its blue-gray rim and leaf/floral motif, then glides across another existing patterned piece and eases back to the exact wide meal-table composition in the last frame. Show that the pattern repeats across the tableware; do not imply a tactile, durability, heat-safety or other unverified product test. There is no hand interaction and no object is moved.
+
+CAMERA AND CONTINUITY
+An unhurried handheld smartphone move from high three-quarter overhead wide to a close, shallow oblique detail and back to the exact original high three-quarter overhead framing. Camera changes distance by physically leaning in and stepping back, with one subtle framing correction and natural autofocus; no macro exaggeration, abrupt teleport, digital zoom effect or view through a ceramic surface. Maintain the same warm window daylight, wood table, placemat, dishes, flowers, food and positions throughout. End aligned to `input/table-after-ai.png` so scene 3 can begin without any object jump.
+
+PRODUCT PRESERVATION / PROHIBITED INVENTIONS
+Every visible piece remains identical to the approved image: white glazed ceramic, the exact scalloped outline where shown, narrow blue-gray rim and the same blue-gray leaf/floral pattern. Preserve counts, sizes, proportions and locations. Never turn the scalloped handled soup vessel into a plain round bowl; do not invent handles on pieces without handles. No changed pattern, spinning ceramics, floating pieces, duplicated/missing objects, food movement, hands, people, steam, extra utensils, extra tableware, added dish/food/decor, text, logo, UI, captions or claims. No generated dialogue or audio; voice-over and on-screen text are added later.
+
+VOICE-OVER TIMING GUIDE (POST-PRODUCTION ONLY)
+0:08–0:14 “Bộ Diệp Hồng có viền xanh xám, điểm hoa lá — nhìn cả mâm gọn mắt hơn.”
+0:14–0:16 Begin “Tên sản phẩm ghi 30 chi tiết, nhưng phần mô tả ghi 31.”; continue at the start of scene 3.

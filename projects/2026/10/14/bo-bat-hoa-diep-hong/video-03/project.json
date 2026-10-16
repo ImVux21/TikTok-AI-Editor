@@ -1,0 +1,67 @@
+{
+  "project_name": "Bộ bát hoa Diệp Hồng — Veo 3.1 Quality — video 03",
+  "version": 1,
+  "language": "vi",
+  "format": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 24
+  },
+  "date": "2026-10-14",
+  "video_id": "video-03",
+  "status": "in_progress",
+  "model_comparison": {
+    "new_model": "Veo 3.1 - Quality",
+    "new_generation_base_resolution": "720p per current Flow setting; upscale to 1080p before final export",
+    "previous_model": "Omni 1.1 Flash",
+    "previous_project": "../video-02/output/video-02-rebuild.mp4",
+    "comparison_notes": "Compare storytelling, product fidelity, motion, artifact rate, and 1080p presentation; do not claim native 1080p generation."
+  },
+  "flow": {
+    "mode": "Frames",
+    "aspect_ratio": "9:16",
+    "length_seconds": 8,
+    "outputs_per_prompt": 1,
+    "current_credit_quote_per_clip": 100
+  },
+  "product": {
+    "name": "Bộ bát hoạ tiết Hoa Diệp Hồng Gốm Sứ Cao Cấp",
+    "listing_url": "https://shop.tiktok.com/vn/pdp/bo-bat-hoa-diep-hong-gom-su-cao-cap-31-mon-sang-trong-tien-dung/1729924909451807684",
+    "facts": [
+      "10 bát cơm",
+      "1 tô canh 16 cm",
+      "1 tô canh 20 cm có tay cầm",
+      "1 đĩa chấm",
+      "10 thìa sứ trắng",
+      "1 muôi canh sứ"
+    ],
+    "count_conflict": "Listing title says 30 pieces, description says 31, and its item list sums to 30. Do not state a total in the video; direct viewers to check with seller."
+  },
+  "references": {
+    "product_reference": "input/product-reference-ui-source.jpg",
+    "user_scene_reference": "input/user-table-product-reference.png",
+    "ai_before_frame": "input/table-before-ai.png",
+    "ai_after_frame": "input/table-after-ai.png"
+  },
+  "output": {
+    "video": "output/video-03-1080x1920.mp4",
+    "subtitles_srt": "output/subtitles.srt",
+    "captions_ass": "output/captions.ass"
+  },
+  "qa": {
+    "script": "scripts/kich-ban-video-03.md",
+    "research": "scripts/ghi-chu-nghien-cuu.md",
+    "source_clips": "qa/source-clip-review.md",
+    "final_export": "qa/final-export-review.md"
+  },
+  "audio_policy": {
+    "provider": "google_flow",
+    "requested_voice": "Adam",
+    "voice_selection_status": "pending_ui_verification",
+    "language": "vi",
+    "elevenlabs_requires_direct_request": true,
+    "source_audio_status": "pending_full_audio_review",
+    "policy_path": "workflow/VOICE-POLICY.md"
+  }
+}
